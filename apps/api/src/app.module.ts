@@ -4,6 +4,7 @@ import { AppController } from "./app.controller";
 import { AppService } from "./app.service";
 import { GeocodingModule } from "./modules/geocoding/geocoding.module";
 import { GooglePlacesModule } from "./modules/google-places/google-places.module";
+import { GridEngineModule } from "./modules/grid-engine/grid-engine.module";
 import { SearchEngineModule } from "./modules/search-engine/search-engine.module";
 
 @Module({
@@ -11,6 +12,7 @@ import { SearchEngineModule } from "./modules/search-engine/search-engine.module
     ConfigModule.forRoot({ isGlobal: true }),
     GeocodingModule,
     GooglePlacesModule,
+    GridEngineModule,
     SearchEngineModule,
   ],
   controllers: [AppController],
