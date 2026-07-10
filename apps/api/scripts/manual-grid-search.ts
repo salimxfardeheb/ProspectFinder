@@ -1,7 +1,9 @@
 /**
- * Manual, human-readable trace of a real geocode + grid search, run against
- * the actual Google APIs (needs GOOGLE_GEOCODING_API_KEY / GOOGLE_PLACES_API_KEY
- * in apps/api/.env). Not part of the app or the test suite — run it yourself:
+ * Manual, human-readable trace of a real search, run against the actual Google
+ * APIs (needs GOOGLE_GEOCODING_API_KEY / GOOGLE_PLACES_API_KEY in apps/api/.env).
+ * Goes through SearchEngineService, so it honors SEARCH_STRATEGY_MODE exactly
+ * like POST /search does ("grid" or "development" — see apps/api/.env).
+ * Not part of the app or the test suite — run it yourself:
  *
  *   pnpm --filter api run search:manual -- "Restaurant" "Oran" "Algeria"
  */
@@ -9,50 +11,44 @@ import "reflect-metadata";
 import { NestFactory } from "@nestjs/core";
 
 import { AppModule } from "../src/app.module";
+import { ApiCacheService } from "../src/common/api-cache.service";
 import { GeocodingService } from "../src/modules/geocoding/geocoding.service";
-import { GridEngineService } from "../src/modules/grid-engine/grid-engine.service";
-import { GridCellProgress } from "../src/modules/grid-engine/interfaces/grid-engine.interface";
-import { DEFAULT_SEARCH_RADIUS_METERS } from "../src/modules/search-engine/search-engine.constants";
+import { SearchEngineService } from "../src/modules/search-engine/search-engine.service";
 
 async function main() {
   const [keyword = "Restaurant", city = "Oran", country = "Algeria", state] = process.argv.slice(2);
 
-  console.log(`Recherche : ${keyword}\n`);
-  console.log(`Ville : ${city}\n`);
+  console.log(`Recherche : ${keyword}`);
+  console.log(`Ville : ${city}`);
+  console.log(`Mode : ${process.env.SEARCH_STRATEGY_MODE ?? "grid"}\n`);
 
   const app = await NestFactory.createApplicationContext(AppModule, { logger: false });
 
   try {
     const geocodingService = app.get(GeocodingService);
-    const gridEngineService = app.get(GridEngineService);
+    const searchEngineService = app.get(SearchEngineService);
+    const apiCache = app.get(ApiCacheService);
 
-    const geocoded = await geocodingService.geocode({ keyword, city, country, state });
+    const dto = { keyword, city, country, state };
+
+    const hitsBeforeGeocode = apiCache.stats.hits;
+    const geocoded = await geocodingService.geocode(dto);
+    console.log(
+      apiCache.stats.hits > hitsBeforeGeocode
+        ? `Géocodage de "${city}" trouvé dans le dossier geocode — Google NON appelé\n`
+        : `Géocodage de "${city}" absent du cache — appel Google réel effectué\n`,
+    );
     console.log(`Coordonnées trouvées :\n${geocoded.latitude}, ${geocoded.longitude}\n`);
-    console.log("Création de la grille...\n");
 
-    const onCellSearched = (progress: GridCellProgress) => {
-      console.log(`Cellule ${progress.cellNumber}`);
-      console.log(`→ ${progress.resultsCount} résultats\n`);
-      if (progress.willSubdivide) {
-        console.log("Subdivision...\n");
-      }
-    };
+    const result = await searchEngineService.search(dto);
 
-    const result = await gridEngineService.search({
-      keyword,
-      center: { latitude: geocoded.latitude, longitude: geocoded.longitude },
-      radius: DEFAULT_SEARCH_RADIUS_METERS,
-      onCellSearched,
-    });
-
-    console.log("Fusion des résultats...\n");
-    console.log("Suppression des doublons...\n");
     console.log("Recherche terminée");
-    console.log(`Temps total : ${(result.stats.performance.totalTimeMs / 1000).toFixed(1)} s`);
-    console.log(`Appels Google : ${result.stats.performance.requestCount}`);
-    console.log(`Résultats bruts : ${result.stats.rawResultsCount}`);
-    console.log(`Doublons supprimés : ${result.stats.duplicatesRemoved}`);
-    console.log(`Résultats finaux : ${result.stats.finalResultsCount}`);
+    console.log(`Temps total : ${(result.executionTimeMs / 1000).toFixed(1)} s`);
+    console.log(`Recherches lancées par la stratégie : ${result.googleRequests}`);
+    console.log(`Appels Google réels (facturés) : ${apiCache.stats.misses}`);
+    console.log(`Réponses relues depuis le cache : ${apiCache.stats.hits}`);
+    console.log(`Doublons supprimés : ${result.duplicatesRemoved}`);
+    console.log(`Résultats finaux : ${result.places.length}`);
   } finally {
     await app.close();
   }

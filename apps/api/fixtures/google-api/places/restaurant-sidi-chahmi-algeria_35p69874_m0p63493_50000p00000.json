@@ -1,0 +1,112 @@
+{
+  "places": [
+    {
+      "id": "ChIJoxciS3hhfg0RRcQPYWtnAmc",
+      "formattedAddress": "JCQ5+788, Rue Tapidor, Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.638151500000006,
+        "longitude": -0.591657
+      },
+      "rating": 2.9,
+      "googleMapsUri": "https://maps.google.com/?cid=7422608846747583557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 88,
+      "displayName": {
+        "text": "BBQ Party",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJu8NqggGJfg0R5T401bUt8xE",
+      "formattedAddress": "Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.696686199999995,
+        "longitude": -0.5953211
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=1293427776974765797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 525,
+      "displayName": {
+        "text": "Restaurant M'sirda 2 مطعم مسيردة",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJRXR5J_plfg0Rh5wfv9Q1NwQ",
+      "nationalPhoneNumber": "0782 60 15 63",
+      "formattedAddress": "MF4H+QCX بجانب الثانوية, 106, Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.656980499999996,
+        "longitude": -0.5213869
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=303770687726656647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "مطعم أبو هيثم",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJlQ0RmrqJfg0RsWO5CKINzoI",
+      "nationalPhoneNumber": "0793 27 71 51",
+      "formattedAddress": "31000, Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.683442899999996,
+        "longitude": -0.6087391
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=9425486059715257265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 59,
+      "displayName": {
+        "text": "Restaurant M'sirda 1 مطعم مسيردة",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ01ELMgBlfg0R_5olWe7Xowo",
+      "formattedAddress": "MF5G+RXX, Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.659624799999996,
+        "longitude": -0.5225200999999999
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=766693780280941311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "restaurant🍟🍕🍔 الأخوة",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ1ZQLEwCJfg0RROFY2vNo9yg",
+      "formattedAddress": "Oran, M9RF+F4H, Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.6911753,
+        "longitude": -0.6271318
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=2951943477314249028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Avenue sidi chahmi",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJhSIbjv1lfg0RvGNamnMkMt0",
+      "nationalPhoneNumber": "0775 16 94 59",
+      "formattedAddress": "village sidi bouamama tranche 08 groupe 164 1-2-3, Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.657754499999996,
+        "longitude": -0.5213675999999999
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=15938842110147060668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 8,
+      "displayName": {
+        "text": "حمزة كاران",
+        "languageCode": "en"
+      }
+    }
+  ]
+}

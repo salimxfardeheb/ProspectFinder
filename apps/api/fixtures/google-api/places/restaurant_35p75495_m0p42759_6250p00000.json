@@ -1,0 +1,323 @@
+{
+  "places": [
+    {
+      "id": "ChIJZTa6HQBjfg0ROS5zCHz9jdA",
+      "nationalPhoneNumber": "0560 17 62 20",
+      "formattedAddress": "Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.7164733,
+        "longitude": -0.5745964
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=15027946240764751417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/restaurantscenariooran",
+      "userRatingCount": 277,
+      "displayName": {
+        "text": "Restaurant Scenario ibra",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJe0EnOABxfg0RT5-hCe2AN_A",
+      "formattedAddress": "QHQH+G7J, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.7888309,
+        "longitude": -0.42186219999999996
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=17309445448378982223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "طبخات امي 31",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJnXPARBljfg0RM6Nb7rqKKlg",
+      "nationalPhoneNumber": "0665 01 15 79",
+      "formattedAddress": "119 boulevard des lions, Bir El Djir 31000, Algeria",
+      "location": {
+        "latitude": 35.7106834,
+        "longitude": -0.5672463999999999
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=6353042759827039027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://atempooran.com/",
+      "userRatingCount": 252,
+      "displayName": {
+        "text": "Atempo Restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJN3b1bQBxfg0Rm4nXkSkT0wE",
+      "formattedAddress": "QHJC+2M9, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.7800291,
+        "longitude": -0.428279
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=131469883385285019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "La casa",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJbb7JIZx8fg0R5x8AWbKZvcQ",
+      "nationalPhoneNumber": "0542 35 66 47",
+      "formattedAddress": "Ain Franine, Bir El Djir 31130, Algeria",
+      "location": {
+        "latitude": 35.7810888,
+        "longitude": -0.5101485
+      },
+      "rating": 3.2,
+      "googleMapsUri": "https://maps.google.com/?cid=14176656193308598247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lepetitchalet.co/",
+      "userRatingCount": 823,
+      "displayName": {
+        "text": "Restaurant Le Petit Chalet",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJsTRcPgBjfg0Rd1s4g8ZjQUA",
+      "nationalPhoneNumber": "0561 07 10 45",
+      "formattedAddress": "PC6M+752, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.710727899999995,
+        "longitude": -0.5673191
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=4630091596169763703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://freshuporan.com/",
+      "userRatingCount": 346,
+      "displayName": {
+        "text": "FRESH'UP restaurant, café & brunch",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJW-_WCwBjfg0RtUvhUfnu5jQ",
+      "nationalPhoneNumber": "0661 21 75 17",
+      "formattedAddress": "149 Résidence mirage 2, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.7172388,
+        "longitude": -0.5733465
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=3811996889203690421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 312,
+      "displayName": {
+        "text": "Nahlo's Restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJhck7IgBxfg0R8oPxvvwxM-M",
+      "formattedAddress": "QHJC+2W4, Rue des Jardins, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.780161199999995,
+        "longitude": -0.42798129999999995
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=16371484032026903538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "صفوان ابو صهيب",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJVzCwujpxfg0R305TUTKTyb4",
+      "nationalPhoneNumber": "0542 47 85 05",
+      "formattedAddress": "QHMH+975, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.7833049,
+        "longitude": -0.4213439
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=13747681181847211743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 22,
+      "displayName": {
+        "text": "Restaurant Hadj MiMi",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJKTjYVQBxfg0R49lr2r37pYg",
+      "nationalPhoneNumber": "0662 63 11 73",
+      "formattedAddress": "QHG8+JRG, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.7765661,
+        "longitude": -0.4329287
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=9846552953147349475&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Pizzeria Y&D",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJC33scABxfg0RPMlaKbNcZ0M",
+      "formattedAddress": "Pizzeria London, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.7821427,
+        "longitude": -0.4249846
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=4856952647705086268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Pizzeria London",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJp9OBlIRxfg0Rh51AlGbItZg",
+      "nationalPhoneNumber": "0794 95 64 38",
+      "formattedAddress": "146 BD Mohamed khemisti, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.777716999999996,
+        "longitude": -0.4320458
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=11003921607449156999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 7,
+      "displayName": {
+        "text": "مطعم الجيجلي restaurant jijeli",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJXzywcABxfg0Re51YYpFsRXM",
+      "nationalPhoneNumber": "0771 21 61 22",
+      "formattedAddress": "QHPF+7HJ, طريق حموا، بوتليليست, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.7857232,
+        "longitude": -0.4261075
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=8306164459430780283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Pizzeria Baraka",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJrWzrFAB1fg0RlRh4cOaK1Ls",
+      "nationalPhoneNumber": "0791 75 56 14",
+      "formattedAddress": "RMWJ+XQ7, Arzew, Algeria",
+      "location": {
+        "latitude": 35.8474017,
+        "longitude": -0.3180936
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=13534595502489213077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Restaurant Djijli - مطعم الجيجلي",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJvSpqMABxfg0RK17djW5ArvA",
+      "nationalPhoneNumber": "0780 07 98 68",
+      "formattedAddress": "QHJF+MWR, N11, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.7817611,
+        "longitude": -0.42514959999999996
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=17342870058621034027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Pecherie st Cloud",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJGddra3ljfg0R6N1-_5q_3tk",
+      "nationalPhoneNumber": "0550 27 56 25",
+      "formattedAddress": "Promotion Immobilière Benammar, Oran 31023, Algeria",
+      "location": {
+        "latitude": 35.7258856,
+        "longitude": -0.5723157
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=15699196023492500968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 393,
+      "displayName": {
+        "text": "Magnolia coffee & restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJuTGKWgKJfg0Rr0mVEaPvQyc",
+      "nationalPhoneNumber": "0541 86 55 31",
+      "formattedAddress": "Boulvard Des Lions, Oran, Algeria",
+      "location": {
+        "latitude": 35.7123302,
+        "longitude": -0.5739377999999999
+      },
+      "rating": 3.1,
+      "googleMapsUri": "https://maps.google.com/?cid=2829368474572507567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 457,
+      "displayName": {
+        "text": "Restaurant Djabali",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJxVfJMQBxfg0RSoMf3qoPnrk",
+      "nationalPhoneNumber": "0797 31 95 66",
+      "formattedAddress": "QHMF+GWJ, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.783828799999995,
+        "longitude": -0.4252317
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=13375145169882415946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 8,
+      "displayName": {
+        "text": "La Spézia Sandwich",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ6RMkcABxfg0REGR-caSDpNM",
+      "formattedAddress": "QHJG+XHJ, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.7824563,
+        "longitude": -0.42359539999999996
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=15250458980485325840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "بيتزيريا أبو البنات عواد",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJa49BdQBjfg0R6rAMGZZn1dg",
+      "nationalPhoneNumber": "0770 22 24 24",
+      "formattedAddress": "PC86+MXM, Bd Millenium 2, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.716712199999996,
+        "longitude": -0.5875922
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=15624508376594821354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 87,
+      "displayName": {
+        "text": "Lebanon Lebanese Restaurant & Cafe",
+        "languageCode": "en"
+      }
+    }
+  ]
+}

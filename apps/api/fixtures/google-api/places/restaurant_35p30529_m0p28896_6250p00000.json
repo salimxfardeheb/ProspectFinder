@@ -1,0 +1,307 @@
+{
+  "places": [
+    {
+      "id": "ChIJxzRtzRE3fg0Rf81BsfbgU9w",
+      "nationalPhoneNumber": "0796 99 25 50",
+      "formattedAddress": "8PHQ+MFP, Aïn Adden, Algeria",
+      "location": {
+        "latitude": 35.3292078,
+        "longitude": -0.2613085
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=15876280461551586687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 5,
+      "displayName": {
+        "text": "مطعم الدوبالة",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJxdfRAlA1fg0Rh1MRhnjBACw",
+      "formattedAddress": "6QP3+6R6, Rue mustapha ben boulaid, Sfisef 22001, Algeria",
+      "location": {
+        "latitude": 35.235538,
+        "longitude": -0.24549459999999995
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3170746861058347911&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Cafétéria el widad",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJaUJLNgI1fg0RnnmkHNMNNNA",
+      "nationalPhoneNumber": "0776 17 09 01",
+      "formattedAddress": "Sfisef 22001, Algeria",
+      "location": {
+        "latitude": 35.2349141,
+        "longitude": -0.2425305
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=15002631459047766430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/pizzatime22/",
+      "userRatingCount": 11,
+      "displayName": {
+        "text": "Pizza time",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJIeYHFWg1fg0R57i0fZ4IYEQ",
+      "formattedAddress": "6QQ6+4MW، نهج العربي، بن مهيدي،سفيزف،الجزائر 22001, Algeria",
+      "location": {
+        "latitude": 35.2378631,
+        "longitude": -0.23829379999999997
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=4926947469150173415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "مطعم الهناء",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJTRUBMAD_fg0RGhaQm7wy7aE",
+      "nationalPhoneNumber": "0795 99 61 55",
+      "formattedAddress": "2 Boulevard de la Macta, Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.219284699999996,
+        "longitude": -0.6338334999999999
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=11668037995231974938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.qrorderdz.com/etablisement/user_table?uid=114&name=Le+Neuf",
+      "userRatingCount": 20,
+      "displayName": {
+        "text": "Restaurant Le neuf",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ24sL-TI1fg0Rr-QXiZnjX7o",
+      "formattedAddress": "6QP5+HPJ, Rue Larbi Ben M'hidi, Sfisef 22001, Algeria",
+      "location": {
+        "latitude": 35.2364625,
+        "longitude": -0.24073440000000002
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=13429702862411654319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 7,
+      "displayName": {
+        "text": "مطعم ملك الكبدة",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJp2YyOeM1fg0RqE9n01ikf6g",
+      "nationalPhoneNumber": "048 79 50 58",
+      "formattedAddress": "N 50, rue Mohamed V, Sfisef 22001, Algeria",
+      "location": {
+        "latitude": 35.2345597,
+        "longitude": -0.24418299999999998
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=12141603821824987048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Patisserie ELNAKHIL CHEZ LARIBI",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJWYP5IwA1fg0RwoNflcmww-I",
+      "formattedAddress": "6QP4+2WG مادوني عبد القادر حي 214, شارع, Sfisef 22001, Algeria",
+      "location": {
+        "latitude": 35.235060499999996,
+        "longitude": -0.242662
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=16340098252871271362&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "مادوني عبد القادر",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJG_-X6OY1fg0Ry20gyFSIEm0",
+      "formattedAddress": "6QM5+M83, Sfisef 22001, Algeria",
+      "location": {
+        "latitude": 35.2341427,
+        "longitude": -0.24170709999999998
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=7859494197431135691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Bekkadour",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJSfL9HwA1fg0R7HFg443ipGM",
+      "formattedAddress": "6QM4+XM5, Sfisef 22001, Algeria",
+      "location": {
+        "latitude": 35.2348942,
+        "longitude": -0.2432591
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=7180112804968428012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "شواء كريم",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJSWvwPwBDfg0RledS_5OpLnI",
+      "formattedAddress": "HH22+VFW, Oued Tlelat, Algeria",
+      "location": {
+        "latitude": 35.552234899999995,
+        "longitude": -0.4487997
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=8227700022361384853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Restaurant Numedia",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJf5JVvZMPfg0Rt5r0guYRp5Q",
+      "nationalPhoneNumber": "041 76 61 61",
+      "formattedAddress": "QRRQ+9XJ, Mers El Hadjadj 31013, Algeria",
+      "location": {
+        "latitude": 35.7909435,
+        "longitude": -0.1600725
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=10711549920461232823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "La Table d'Oran Restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJhfu5lnU1fg0RXhdJpBbcOqE",
+      "nationalPhoneNumber": "0782 04 30 45",
+      "formattedAddress": "6QM5+P95، N7، Sfisef 22001, Algeria",
+      "location": {
+        "latitude": 35.2342537,
+        "longitude": -0.241504
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=11617840178559260510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 34,
+      "displayName": {
+        "text": "Pizzeria Mansoura",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJpwxGKAA1fg0RP_jCo0OKZuQ",
+      "formattedAddress": "6QM4+VPQ, Sfisef 22001, Algeria",
+      "location": {
+        "latitude": 35.2347033,
+        "longitude": -0.24314690000000003
+      },
+      "rating": 1,
+      "googleMapsUri": "https://maps.google.com/?cid=16457993911386961983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Casa Food",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJeRRRvQspfg0RSMvVKZUIevw",
+      "formattedAddress": "8W8X+7RJ, N17, Bou Hanifia, Algeria",
+      "location": {
+        "latitude": 35.3157194,
+        "longitude": -0.0504742
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=18192863081461566280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ02kiQwBnfg0RdrHUGraOGVU",
+      "nationalPhoneNumber": "0793 32 51 06",
+      "formattedAddress": "JFHH+C5G, El Braya, Algeria",
+      "location": {
+        "latitude": 35.6285508,
+        "longitude": -0.5220378999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6132089280426979702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Restaurant kfz mba",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ9e3NfgA1fg0Rt4fCJj4j8yU",
+      "formattedAddress": "6QJ3+XFF, Sfisef 22001, Algeria",
+      "location": {
+        "latitude": 35.232458699999995,
+        "longitude": -0.24634209999999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2734568148589250487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant elhaja",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJf59TUEo1fg0RkSZ-JvOjdts",
+      "formattedAddress": "6QM2+2GV, Sfisef 22001, Algeria",
+      "location": {
+        "latitude": 35.2326024,
+        "longitude": -0.2487047
+      },
+      "rating": 3,
+      "googleMapsUri": "https://maps.google.com/?cid=15814007406276257425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "مطعم",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJtQvXAAA1fg0R9raLsEbtlk8",
+      "formattedAddress": "6QM5+V92, Rue Si Boumedien, Sfisef 22001, Algeria",
+      "location": {
+        "latitude": 35.234452999999995,
+        "longitude": -0.241706
+      },
+      "rating": 1,
+      "googleMapsUri": "https://maps.google.com/?cid=5735032063368345334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Pizzeria Aafça",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ4wMYPwA9fg0RzcQ6EgrUQY4",
+      "formattedAddress": "GRH4+FMV, Sig, Algeria",
+      "location": {
+        "latitude": 35.5288312,
+        "longitude": -0.19316429999999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10250707366592562381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "My Restaurant",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

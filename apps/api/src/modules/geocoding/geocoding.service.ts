@@ -12,6 +12,8 @@ import { ConfigService } from "@nestjs/config";
 import { isAxiosError } from "axios";
 import { firstValueFrom } from "rxjs";
 
+import { ApiCacheService } from "../../common/api-cache.service";
+import { slugify } from "../../common/slug";
 import { GeocodeAddressDto } from "./dto/geocode-address.dto";
 import {
   GOOGLE_GEOCODING_API_KEY_ENV,
@@ -20,6 +22,8 @@ import {
 } from "./geocoding.constants";
 import { GeocodeResult, GoogleGeocodingResponse } from "./interfaces/geocoding.interface";
 
+const CACHE_NAMESPACE = "geocode";
+
 @Injectable()
 export class GeocodingService {
   private readonly logger = new Logger(GeocodingService.name);
@@ -27,23 +31,34 @@ export class GeocodingService {
   constructor(
     private readonly httpService: HttpService,
     private readonly configService: ConfigService,
+    private readonly apiCache: ApiCacheService,
   ) {}
 
   async geocode(dto: GeocodeAddressDto): Promise<GeocodeResult> {
+    const address = this.toAddress(dto);
+    const cacheKey = slugify(address);
+
+    const cached = this.apiCache.read<GeocodeResult>(CACHE_NAMESPACE, cacheKey);
+    if (cached) {
+      this.logger.log(`geocode cache hit for "${address}"`);
+      return cached;
+    }
+
     const apiKey = this.configService.get<string>(GOOGLE_GEOCODING_API_KEY_ENV);
     if (!apiKey) {
       this.logger.error(`${GOOGLE_GEOCODING_API_KEY_ENV} is not set`);
       throw new InternalServerErrorException("Google Geocoding API key is not configured");
     }
 
-    const address = this.toAddress(dto);
     this.logger.log(`geocode address="${address}"`);
 
     const startedAt = Date.now();
     const data = await this.fetchGeocode(address, apiKey);
     this.logger.log(`geocode responded status=${data.status} in ${Date.now() - startedAt}ms`);
 
-    return this.toResult(data, address);
+    const result = this.toResult(data, address);
+    this.apiCache.write(CACHE_NAMESPACE, cacheKey, result);
+    return result;
   }
 
   private toAddress(dto: GeocodeAddressDto): string {

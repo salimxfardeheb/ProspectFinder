@@ -4,6 +4,7 @@ import { ConfigService } from "@nestjs/config";
 import { Test, TestingModule } from "@nestjs/testing";
 import { of } from "rxjs";
 
+import { ApiCacheService } from "../../common/api-cache.service";
 import { GeocodeAddressDto } from "./dto/geocode-address.dto";
 import { GeocodingService } from "./geocoding.service";
 import { GoogleGeocodingResponse } from "./interfaces/geocoding.interface";
@@ -20,6 +21,8 @@ describe("GeocodingService", () => {
         GeocodingService,
         { provide: HttpService, useValue: httpService },
         { provide: ConfigService, useValue: { get: jest.fn().mockReturnValue("test-api-key") } },
+        // Cache always misses in unit tests: geocode() must fall through to the real HTTP call.
+        { provide: ApiCacheService, useValue: { read: jest.fn().mockReturnValue(null), write: jest.fn() } },
       ],
     }).compile();
 

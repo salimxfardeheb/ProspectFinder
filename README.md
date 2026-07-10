@@ -36,6 +36,44 @@ cp apps/api/.env.example apps/api/.env
 pnpm dev
 ```
 
+## Cache des appels Google (développement)
+
+Chaque recherche coûte de l'argent (voir tarifs Google Places/Geocoding). Pour ne payer
+qu'une fois par scénario testé, l'API met automatiquement en cache chaque appel Google
+distinct dans `apps/api/fixtures/google-api/` (fichiers JSON versionnés dans git) :
+
+- **1er appel** pour une combinaison donnée (une ville à géocoder, ou un mot-clé + une
+  cellule lat/lng/rayon) → vrai appel Google, réponse sauvegardée dans un fichier.
+- **Tout appel identique ensuite** (même ville, même mot-clé, même cellule) → relu depuis
+  le fichier, 0 requête réseau, 0 coût. C'est transparent : rien à activer, il suffit de
+  relancer la même recherche.
+- Le géocodage est mis en cache par ville seule (indépendamment du mot-clé) : chercher
+  "restaurant", puis "hôtel", puis "dentiste" à Oran ne géocode Oran qu'une seule fois.
+- La recherche en grille (`grid-engine`) met en cache **chaque cellule individuellement** :
+  changer un mot-clé ou une ville déclenche de nouveaux appels réels pour les nouvelles
+  cellules, mais relancer la même recherche pour affiner la logique de dédoublonnage,
+  l'affichage ou les statistiques ne coûte plus jamais rien.
+- Pour forcer un nouvel appel réel sur un scénario précis : supprimer le fichier
+  correspondant dans `apps/api/fixtures/google-api/`.
+- Pour désactiver totalement le cache : `GOOGLE_API_CACHE=false` dans `apps/api/.env`.
+
+⚠️ **Ne jamais laisser le cache activé en production** — un vrai utilisateur ne doit
+jamais recevoir un résultat rejoué et potentiellement obsolète.
+
+## Mode de recherche "Development" (peu d'appels Google)
+
+`POST /search` peut s'appuyer sur deux stratégies (`SEARCH_STRATEGY_MODE` dans `apps/api/.env`) :
+
+- **`grid` (défaut)** — `GridPlacesSearchStrategy` : recherche en grille récursive, exhaustive
+  mais potentiellement des dizaines d'appels Google par recherche.
+- **`development`** — `DevelopmentSearchStrategy` : une seule recherche texte par commune connue
+  de la ville (ex. `"Restaurant Bir El Djir Algeria"`), fusion des résultats, déduplication par
+  Place ID. Pour Oran (7 communes dans `communes.data.ts`), ça fait 7 appels Places au lieu d'un
+  nombre variable et potentiellement élevé de cellules de grille. **Pas exhaustif, volontairement** —
+  fait pour itérer vite et gratuitement (grâce au cache) sur l'algorithme pendant le développement.
+- Ville absente de `communes.data.ts` → repli automatique sur une recherche unique pour la ville
+  elle-même (aucun échec). Ajoutez vos propres villes dans ce fichier au besoin.
+
 ## Scripts
 
 | Commande            | Description                                    |

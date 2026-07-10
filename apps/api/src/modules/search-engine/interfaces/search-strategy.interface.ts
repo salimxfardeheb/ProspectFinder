@@ -2,6 +2,10 @@ import { GooglePlace, GooglePlacesSearchResponse } from "../../google-places/int
 
 export interface SearchQuery {
   keyword: string;
+  /** City/state/country as typed by the user — only used by text-query-based strategies (e.g. DevelopmentSearchStrategy). */
+  city: string;
+  state?: string;
+  country: string;
   latitude: number;
   longitude: number;
   radius: number;

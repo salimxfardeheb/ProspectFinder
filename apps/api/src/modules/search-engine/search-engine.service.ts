@@ -18,6 +18,9 @@ export class SearchEngineService {
     const { latitude, longitude } = await this.geocodingService.geocode(dto);
     const result = await this.searchStrategy.search({
       keyword: dto.keyword,
+      city: dto.city,
+      state: dto.state,
+      country: dto.country,
       latitude,
       longitude,
       radius: DEFAULT_SEARCH_RADIUS_METERS,

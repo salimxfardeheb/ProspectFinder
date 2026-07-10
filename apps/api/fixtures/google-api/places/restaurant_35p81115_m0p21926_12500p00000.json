@@ -1,0 +1,316 @@
+{
+  "places": [
+    {
+      "id": "ChIJf5JVvZMPfg0Rt5r0guYRp5Q",
+      "nationalPhoneNumber": "041 76 61 61",
+      "formattedAddress": "QRRQ+9XJ, Mers El Hadjadj 31013, Algeria",
+      "location": {
+        "latitude": 35.7909435,
+        "longitude": -0.1600725
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=10711549920461232823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "La Table d'Oran Restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJK3EeXQAPfg0R8zQEKmSUns8",
+      "formattedAddress": "Mers El Hadjadj, Algeria",
+      "location": {
+        "latitude": 35.799386999999996,
+        "longitude": -0.1634964
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=14960558170093925619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 7,
+      "displayName": {
+        "text": "LA TERRASSE",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ9xmhagANfg0RT6XJSkzPBHQ",
+      "nationalPhoneNumber": "0563 52 24 28",
+      "formattedAddress": "Aïn Bya, Algeria",
+      "location": {
+        "latitude": 35.8092853,
+        "longitude": -0.2889593
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=8360034734885676367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://yassinegit31.github.io/bros-BURGER-/news.html",
+      "userRatingCount": 49,
+      "displayName": {
+        "text": "Bro’s burger",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJrWzrFAB1fg0RlRh4cOaK1Ls",
+      "nationalPhoneNumber": "0791 75 56 14",
+      "formattedAddress": "RMWJ+XQ7, Arzew, Algeria",
+      "location": {
+        "latitude": 35.8474017,
+        "longitude": -0.3180936
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=13534595502489213077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Restaurant Djijli - مطعم الجيجلي",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJrf6fAwANfg0RNED33LFNuYg",
+      "nationalPhoneNumber": "0541 53 35 32",
+      "formattedAddress": "Aïn Bya, Algeria",
+      "location": {
+        "latitude": 35.8096779,
+        "longitude": -0.28897819999999996
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=9851991086161412148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/profile.php?id=100095185998318&mibextid=ZbWKwL",
+      "userRatingCount": 14,
+      "displayName": {
+        "text": "Dadi's food",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJhXlEUgAPfg0RRHN_xh5vaY4",
+      "nationalPhoneNumber": "0556 64 67 55",
+      "formattedAddress": "QRWP+QPQ, Rue chahid feriha benyoucef, Mers El Hadjadj, Algeria",
+      "location": {
+        "latitude": 35.7969618,
+        "longitude": -0.1631417
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=10261855403910329156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 17,
+      "displayName": {
+        "text": "Pergolis",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJdUugRAAPfg0RDt9bAqxw9-4",
+      "nationalPhoneNumber": "0770 16 37 02",
+      "formattedAddress": "QRXP+MP2 Ammara Lasakri, Mers El Hadjadj, Algeria",
+      "location": {
+        "latitude": 35.7990468,
+        "longitude": -0.16296
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=17219355584350641934&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 31,
+      "displayName": {
+        "text": "Pizzeria amour",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJyfCXDgAPfg0RjUS4-lNbR6U",
+      "nationalPhoneNumber": "0562 61 18 09",
+      "formattedAddress": "QRQC+XH2, Mers El Hadjadj, Algeria",
+      "location": {
+        "latitude": 35.789957699999995,
+        "longitude": -0.17861739999999998
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=11909588155851359373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://0.0.121.24/",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "BvB pizza past food",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJw74qHgANfg0RSoYZLbsuXFA",
+      "nationalPhoneNumber": "0561 00 78 97",
+      "formattedAddress": "Aïn Bya, Algeria",
+      "location": {
+        "latitude": 35.776278999999995,
+        "longitude": -0.2827811
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=5790554602342024778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Sapori d’italia",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJOzC7DgANfg0RJCM3X9EIOmA",
+      "nationalPhoneNumber": "0666 88 81 15",
+      "formattedAddress": "RP3F+V3W, Bethioua, Algeria",
+      "location": {
+        "latitude": 35.8047396,
+        "longitude": -0.2772859
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6933864271628935972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "My Cheese",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJW_dOPwANfg0RtGXFsJEleLo",
+      "formattedAddress": "RP53+39R, Aïn Bya, Algeria",
+      "location": {
+        "latitude": 35.8077263,
+        "longitude": -0.2966206
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=13436530795926087092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Home'Eat",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJTVEiOdQKfg0RRCQQC-WOFes",
+      "formattedAddress": "VPF3+XJ5, Arzew, Algeria",
+      "location": {
+        "latitude": 35.8748875,
+        "longitude": -0.2958906
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=16939602687808250948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 15,
+      "displayName": {
+        "text": "La Passerelle",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJP-4mvFoNfg0RkFWCzogJYbs",
+      "nationalPhoneNumber": "0668 93 25 52",
+      "formattedAddress": "RP4J+277، Avenue Larbi Ben Mhidi، Bethioua, Algeria",
+      "location": {
+        "latitude": 35.8050378,
+        "longitude": -0.26931289999999997
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=13502083641018307984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 12,
+      "displayName": {
+        "text": "Pizzeria wissam",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJBR9TRwANfg0R7H8tUhOHdek",
+      "nationalPhoneNumber": "0553 29 17 32",
+      "formattedAddress": "RP68+XMW, Rue De Grand Marche, Aïn El Bia, Algeria",
+      "location": {
+        "latitude": 35.812583599999996,
+        "longitude": -0.28337039999999997
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=16822500500165197804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 11,
+      "displayName": {
+        "text": "CITY'S FOOD",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ-9FAxSkLfg0RQtXPeL9jbvQ",
+      "nationalPhoneNumber": "0674 99 84 59",
+      "formattedAddress": "VPC5+M2M, Rte du Cap Carbon, Arzew, Algeria",
+      "location": {
+        "latitude": 35.871712699999996,
+        "longitude": -0.2924635
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=17613124866709378370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 38,
+      "displayName": {
+        "text": "Restaurant Le Phare",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJqfI__ix1fg0RsylBuaT9p2A",
+      "nationalPhoneNumber": "0795 07 63 65",
+      "formattedAddress": "80,fontaine des gazelles، Arzew, Algeria",
+      "location": {
+        "latitude": 35.8795011,
+        "longitude": -0.30206089999999997
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=6964814232676280755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 308,
+      "displayName": {
+        "text": "Les Gazelles",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJizQrYdoNfg0RJhvYRAJRyCU",
+      "nationalPhoneNumber": "0655 80 87 95",
+      "formattedAddress": "Bethioua, Algeria",
+      "location": {
+        "latitude": 35.7591031,
+        "longitude": -0.23804440000000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2722515044932262694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/share/18KKAA1a9f/",
+      "displayName": {
+        "text": "Restaurant Djowadja",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJo0DdSABzfg0RFEfwtQ9vDiE",
+      "formattedAddress": "RMG2+7FR, Arzew, Algeria",
+      "location": {
+        "latitude": 35.8257402,
+        "longitude": -0.34886079999999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2381963366193186580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant beladam Mhammed",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJJUJ4cI0Mfg0R5ptj-7tMm8c",
+      "formattedAddress": "RP5H+6MQ, Rue Emir Abdelkader, Mostaganem, Algeria",
+      "location": {
+        "latitude": 35.8080944,
+        "longitude": -0.270779
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=14383174205198015462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Ayman",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ1008H40Nfg0RnnFtAwrv2iM",
+      "formattedAddress": "numéro 05, Bd Emir Abdelkader, Bethioua 31015, Algeria",
+      "location": {
+        "latitude": 35.810186099999996,
+        "longitude": -0.27688029999999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2583640162536616350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Le baratié",
+        "languageCode": "en"
+      }
+    }
+  ]
+}

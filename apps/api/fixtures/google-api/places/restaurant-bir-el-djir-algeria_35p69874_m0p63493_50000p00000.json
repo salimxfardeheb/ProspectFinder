@@ -1,0 +1,327 @@
+{
+  "places": [
+    {
+      "id": "ChIJa49BdQBjfg0R6rAMGZZn1dg",
+      "nationalPhoneNumber": "0770 22 24 24",
+      "formattedAddress": "PC86+MXM, Bd Millenium 2, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.716712199999996,
+        "longitude": -0.5875922
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=15624508376594821354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 87,
+      "displayName": {
+        "text": "Lebanon Lebanese Restaurant & Cafe",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJhXgk6CVjfg0RU9vFyZmyE0g",
+      "nationalPhoneNumber": "0560 13 82 12",
+      "formattedAddress": "31, CENTRE COMMERCIAL LES GALERIES, Bir El Djir 31000, Algeria",
+      "location": {
+        "latitude": 35.727407,
+        "longitude": -0.585139
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=5193691168873241427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 116,
+      "displayName": {
+        "text": "L'Accordéon",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJW-_WCwBjfg0RtUvhUfnu5jQ",
+      "nationalPhoneNumber": "0661 21 75 17",
+      "formattedAddress": "149 Résidence mirage 2, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.7172388,
+        "longitude": -0.5733465
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=3811996889203690421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 312,
+      "displayName": {
+        "text": "Nahlo's Restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJuTGKWgKJfg0Rr0mVEaPvQyc",
+      "nationalPhoneNumber": "0541 86 55 31",
+      "formattedAddress": "Boulvard Des Lions, Oran, Algeria",
+      "location": {
+        "latitude": 35.7123302,
+        "longitude": -0.5739377999999999
+      },
+      "rating": 3.1,
+      "googleMapsUri": "https://maps.google.com/?cid=2829368474572507567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 457,
+      "displayName": {
+        "text": "Restaurant Djabali",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJGZ98wstjfg0RoG_zSW5WH40",
+      "nationalPhoneNumber": "0550 39 00 36",
+      "formattedAddress": "Bd Millenium 2, Bir El Djir 31000, Algeria",
+      "location": {
+        "latitude": 35.7164572,
+        "longitude": -0.5802685
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=10168941515312951200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 13,
+      "displayName": {
+        "text": "Meat & Chill Restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJZTa6HQBjfg0ROS5zCHz9jdA",
+      "nationalPhoneNumber": "0560 17 62 20",
+      "formattedAddress": "Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.7164733,
+        "longitude": -0.5745964
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=15027946240764751417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/restaurantscenariooran",
+      "userRatingCount": 277,
+      "displayName": {
+        "text": "Restaurant Scenario ibra",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJhw8JiYtjfg0REnXmN3jfgrY",
+      "nationalPhoneNumber": "0540 11 00 24",
+      "formattedAddress": "PCC5+XJQ, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.7221043,
+        "longitude": -0.5910811
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=13151319569302189330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.houseofburgersdz.com/",
+      "userRatingCount": 420,
+      "displayName": {
+        "text": "House of Burgers Oran",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJgWjBQRpjfg0RVDJxVxEsRiw",
+      "nationalPhoneNumber": "0557 95 73 70",
+      "formattedAddress": "Cité Nour, Bir El Djir 31023, Algeria",
+      "location": {
+        "latitude": 35.725037199999996,
+        "longitude": -0.5705733
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=3190285839031677524&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 199,
+      "displayName": {
+        "text": "Napel oran",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJC1yWtuRjfg0Ribf_ua0QW4g",
+      "nationalPhoneNumber": "0770 94 29 44",
+      "formattedAddress": "31000, Bir El Djir 31000, Algeria",
+      "location": {
+        "latitude": 35.7146264,
+        "longitude": -0.5803347999999999
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=9825465350374799241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 87,
+      "displayName": {
+        "text": "Restaurant Coralia n 2",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJPwCtQOhifg0R4hUmyXOREog",
+      "nationalPhoneNumber": "0561 68 84 98",
+      "formattedAddress": "W32, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.716079799999996,
+        "longitude": -0.5747357
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=9805059265220974050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://fr-fr.facebook.com/SWEETGLABO/",
+      "userRatingCount": 394,
+      "displayName": {
+        "text": "Sweet G",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJf_qERgBjfg0RsXhPL6xmNrg",
+      "formattedAddress": "54 Boulevard Millénium, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.716992,
+        "longitude": -0.5932195
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=13273909841435261105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 70,
+      "displayName": {
+        "text": "L'Olivier",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJH6dZDABjfg0RZifx9R96FaA",
+      "formattedAddress": "Boulevard des lions, Oran, Algeria",
+      "location": {
+        "latitude": 35.710786899999995,
+        "longitude": -0.5665146999999999
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=11535260298268190566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/casafocaccia.oran?igsh=MWk4NXNxc3ZlZGVzMw==",
+      "userRatingCount": 45,
+      "displayName": {
+        "text": "Casa focaccia",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ31jGboNjfg0Rs8JY4Yw_FP4",
+      "nationalPhoneNumber": "0770 16 46 46",
+      "formattedAddress": "PCJ9+F3M, W75, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.7312061,
+        "longitude": -0.5823395
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=18308328259476570803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 49,
+      "displayName": {
+        "text": "Restaurant Le Roi Des Goûts",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJGddra3ljfg0R6N1-_5q_3tk",
+      "nationalPhoneNumber": "0550 27 56 25",
+      "formattedAddress": "Promotion Immobilière Benammar, Oran 31023, Algeria",
+      "location": {
+        "latitude": 35.7258856,
+        "longitude": -0.5723157
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=15699196023492500968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 393,
+      "displayName": {
+        "text": "Magnolia coffee & restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJM8zwSQBjfg0RtwJHLvKtAaA",
+      "nationalPhoneNumber": "0560 62 04 51",
+      "formattedAddress": "Bir El Djir 31000, Algeria",
+      "location": {
+        "latitude": 35.7357198,
+        "longitude": -0.561295
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=11529687776715276983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.lemediterraneen-oran.com/",
+      "userRatingCount": 108,
+      "displayName": {
+        "text": "Le Méditerranéen",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJC3bJIwBjfg0RqRNWr9dL4ZE",
+      "nationalPhoneNumber": "0557 01 86 79",
+      "formattedAddress": "PCPM+436, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.7352875,
+        "longitude": -0.5673594
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=10511766394991154089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 137,
+      "displayName": {
+        "text": "Mainama Oussama",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJP8nGlMpjfg0RovD3pCSiQqw",
+      "nationalPhoneNumber": "0557 35 05 87",
+      "formattedAddress": "Oran, Algeria",
+      "location": {
+        "latitude": 35.707340099999996,
+        "longitude": -0.5612193999999999
+      },
+      "rating": 2.8,
+      "googleMapsUri": "https://maps.google.com/?cid=12412661801256743074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 162,
+      "displayName": {
+        "text": "Restaurant CHEF ASSAD",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJCSK4ewBjfg0RKE07703cbFs",
+      "nationalPhoneNumber": "0553 12 21 22",
+      "formattedAddress": "PCH7+26V, Oran, Algeria",
+      "location": {
+        "latitude": 35.727444399999996,
+        "longitude": -0.5870675
+      },
+      "rating": 3.4,
+      "googleMapsUri": "https://maps.google.com/?cid=6587882582220426536&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 134,
+      "displayName": {
+        "text": "Savannah ORAN (Akid Lotfi)",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJc9ZBvSpjfg0RMfod4Zt0l4E",
+      "nationalPhoneNumber": "0553 80 25 92",
+      "formattedAddress": "PC2Q+X5J, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.7024614,
+        "longitude": -0.5621094999999999
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=9338060565221603889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 83,
+      "displayName": {
+        "text": "La baraque cheese burger oran",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJoxwFLABjfg0Re_5UzAAZtWk",
+      "nationalPhoneNumber": "0770 61 65 45",
+      "formattedAddress": "Millenium fourra, PCCG+Q5W, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.7219966,
+        "longitude": -0.5745442
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=7617021835985878651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 6,
+      "displayName": {
+        "text": "Snack Nhl",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

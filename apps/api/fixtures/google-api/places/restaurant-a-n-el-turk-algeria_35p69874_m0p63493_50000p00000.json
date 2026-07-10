@@ -1,0 +1,319 @@
+{
+  "places": [
+    {
+      "id": "ChIJ29bIEZCbfg0RE7epUwQVlFc",
+      "nationalPhoneNumber": "0674 58 87 55",
+      "formattedAddress": "P6VP+3QP, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.7429363,
+        "longitude": -0.7629943
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=6310692086180591379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 96,
+      "displayName": {
+        "text": "Restaurant hadja Saiida",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJgy7Sc3Obfg0RblfGe96px8E",
+      "nationalPhoneNumber": "0553 75 51 20",
+      "formattedAddress": "P6XG+G9X, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.748802700000006,
+        "longitude": -0.7740996
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=13963315942709942126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 153,
+      "displayName": {
+        "text": "Restaurant O'poisson",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJCZk2HB6bfg0Rnl_43DA5reU",
+      "nationalPhoneNumber": "0557 37 13 80",
+      "formattedAddress": "Unnamed Road, P6VG+FX4, Aïn El Turk, Algeria",
+      "location": {
+        "latitude": 35.7436398,
+        "longitude": -0.7725405999999999
+      },
+      "rating": 3.4,
+      "googleMapsUri": "https://maps.google.com/?cid=16549947087684919198&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 83,
+      "displayName": {
+        "text": "La couronne",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJh8YnQKSafg0RhcrBM30AuOY",
+      "nationalPhoneNumber": "0771 21 93 44",
+      "formattedAddress": "P6WM+2GR, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.74511770000001,
+        "longitude": -0.7662367
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=16625038562177436293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 185,
+      "displayName": {
+        "text": "Restaurant Le Marin II",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJl9QSFGebfg0RC_d4rrCn4QQ",
+      "nationalPhoneNumber": "0670 18 40 31",
+      "formattedAddress": "P6WH+W9M،، عين الترك،، Algeria",
+      "location": {
+        "latitude": 35.7474431,
+        "longitude": -0.7715808
+      },
+      "rating": 2.9,
+      "googleMapsUri": "https://maps.google.com/?cid=351746623194855179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 65,
+      "displayName": {
+        "text": "Restaurant Beb El Hara -Ain Turk",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJmbGX4Bybfg0RLoWf3wKBmQU",
+      "nationalPhoneNumber": "0542 39 17 58",
+      "formattedAddress": "31000, Aïn El Turk 31000, Algeria",
+      "location": {
+        "latitude": 35.742059,
+        "longitude": -0.7602784
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=403495490968061230&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 6,
+      "displayName": {
+        "text": "Pacific",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJl5-LE4Kbfg0RFNukJbdoXBg",
+      "nationalPhoneNumber": "0775 02 10 45",
+      "formattedAddress": "P6VM+J2P, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.7455765,
+        "longitude": -0.7688103
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=1755393090587515668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 87,
+      "displayName": {
+        "text": "Restaurant Le pêcheur (djamel paella)",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJw8PyhVWFfg0RplJHmf1XyDU",
+      "nationalPhoneNumber": "0542 88 09 01",
+      "formattedAddress": "P6QX+2CV, Bd Milinette, Aïn El Turk, Algeria",
+      "location": {
+        "latitude": 35.7376167,
+        "longitude": -0.7514634
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=3875444226062242470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 29,
+      "displayName": {
+        "text": "RestoPizza la Première",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJuw5__aiafg0RVZSgJaKHxD8",
+      "nationalPhoneNumber": "0771 45 54 67",
+      "formattedAddress": "P6RQ+JRH, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.7415632,
+        "longitude": -0.7604056
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=4594946650310480981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 34,
+      "displayName": {
+        "text": "Singapour Restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJT1X0JMOPfg0R42AjMAN3zqc",
+      "nationalPhoneNumber": "0798 69 14 72",
+      "formattedAddress": "P7P8+Q4Q, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.736885699999995,
+        "longitude": -0.7346807
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=12091732905112592611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 52,
+      "displayName": {
+        "text": "Chez chef aziz",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJecg15aWbfg0Ra2C89AS2snc",
+      "formattedAddress": "P6VH+824, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.7431993,
+        "longitude": -0.7722119
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=8625156368770031723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Resto le tf",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ97ZPUwCPfg0Rj27v3lxjnTg",
+      "nationalPhoneNumber": "0563 29 51 52",
+      "formattedAddress": "P7P4+VC8, Bd Milinette, Aïn El Turk, Algeria",
+      "location": {
+        "latitude": 35.7372855,
+        "longitude": -0.7438100999999999
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=4079526087995911823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 49,
+      "displayName": {
+        "text": "KEEMALA BY ORAN",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJjXrvSJCbfg0RH44T8r10bRc",
+      "formattedAddress": "31000, Aïn El Turk 31000, Algeria",
+      "location": {
+        "latitude": 35.7455637,
+        "longitude": -0.7749196
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=1688133794492812831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 10,
+      "displayName": {
+        "text": "Cafe étoile",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ6dDn0uSbfg0R-WwJ_7e8HBM",
+      "nationalPhoneNumber": "0555 99 23 33",
+      "formattedAddress": "P6VM+FQC, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.743688899999995,
+        "longitude": -0.7656122999999999
+      },
+      "rating": 3.6,
+      "googleMapsUri": "https://maps.google.com/?cid=1377183084512374009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 28,
+      "displayName": {
+        "text": "Pizzeria Wonder Food 's Ain turk oran",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJGTFENgCbfg0R_A1PI59dq2c",
+      "formattedAddress": "Local bloc A, bvd de la république, Aïn El Turk, Algeria",
+      "location": {
+        "latitude": 35.7431872,
+        "longitude": -0.7728311
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7470167344997666300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant MOOD Mazaj (مزاج)",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJy6ewPa-bfg0RxHv9utAoQfc",
+      "nationalPhoneNumber": "0781 85 54 01",
+      "formattedAddress": "P6RV+4X3, Bd Milinette, Aïn El Turk, Algeria",
+      "location": {
+        "latitude": 35.740269,
+        "longitude": -0.7550825999999999
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=17816566477809875908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 21,
+      "displayName": {
+        "text": "O'BEST snack",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJz1Kw4qKafg0RFdDOOUpPI0o",
+      "nationalPhoneNumber": "041 10 90 02",
+      "formattedAddress": "N°6 place 20 août , restaurant la calypso, Ain El Turk 31300, Algeria",
+      "location": {
+        "latitude": 35.7471986,
+        "longitude": -0.7700152
+      },
+      "rating": 3.6,
+      "googleMapsUri": "https://maps.google.com/?cid=5342200763207569429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/calypso.oran/?ref=bookmarks",
+      "userRatingCount": 407,
+      "displayName": {
+        "text": "Calypso",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJe-MQ6LGbfg0RqKPDC4GSzE8",
+      "nationalPhoneNumber": "0783 16 89 77",
+      "formattedAddress": "P6XH+4CC, Rue du 20 Aout, Oran, Algeria",
+      "location": {
+        "latitude": 35.747819299999996,
+        "longitude": -0.771471
+      },
+      "rating": 3.4,
+      "googleMapsUri": "https://maps.google.com/?cid=5750131907191088040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 14,
+      "displayName": {
+        "text": "Délice land",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJl0CIaDCPfg0R6xoPtfMso4s",
+      "formattedAddress": "Unnamed Road, Aïn El Turk, Algeria",
+      "location": {
+        "latitude": 35.7350795,
+        "longitude": -0.7439334999999999
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=10061935417702161131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Cafétéria la suite",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJcT32qIKPfg0RN8Sa_rgg9Rs",
+      "nationalPhoneNumber": "0772 66 19 82",
+      "formattedAddress": "86 rue belle veu, Aïn El Turk 31000, Algeria",
+      "location": {
+        "latitude": 35.736953299999996,
+        "longitude": -0.7478180999999999
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=2014552387235791927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 13,
+      "displayName": {
+        "text": "Yahia ain turque",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

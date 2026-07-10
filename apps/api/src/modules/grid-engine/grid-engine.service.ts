@@ -1,5 +1,6 @@
 import { Injectable, Logger } from "@nestjs/common";
 
+import { dedupePlacesById } from "../../common/dedupe-places";
 import { GooglePlacesService } from "../google-places/google-places.service";
 import { GooglePlace } from "../google-places/interfaces/google-place.interface";
 import { GoogleRequestExecutor } from "./google-request-executor";
@@ -63,7 +64,7 @@ export class GridEngineService {
     );
     const totalTimeMs = Date.now() - startedAt;
 
-    const places = this.deduplicateById(mergedPlaces);
+    const places = dedupePlacesById(mergedPlaces);
 
     stats.rawResultsCount = mergedPlaces.length;
     stats.duplicatesRemoved = mergedPlaces.length - places.length;
@@ -86,26 +87,6 @@ export class GridEngineService {
     );
 
     return { places, stats };
-  }
-
-  /**
-   * Deduplicates strictly on place.id: two entries are only ever collapsed
-   * when they share the exact same id, never based on name/address/other
-   * fields, so two genuinely different companies are never removed.
-   */
-  private deduplicateById(places: GooglePlace[]): GooglePlace[] {
-    const seenIds = new Set<string>();
-    const deduplicated: GooglePlace[] = [];
-
-    for (const place of places) {
-      if (seenIds.has(place.id)) {
-        continue;
-      }
-      seenIds.add(place.id);
-      deduplicated.push(place);
-    }
-
-    return deduplicated;
   }
 
   private async searchCell(

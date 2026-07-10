@@ -1,0 +1,314 @@
+{
+  "places": [
+    {
+      "id": "ChIJZYNVsLBxfg0RhD7wmhA_vP4",
+      "nationalPhoneNumber": "0553 61 49 88",
+      "formattedAddress": "HAÏ CHIKH BOUAMAMA, Hassi Mefsoukh 31050, Algeria",
+      "location": {
+        "latitude": 35.7920344,
+        "longitude": -0.3799455
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=18355615521806761604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "كبدة الخاوة",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJe0EnOABxfg0RT5-hCe2AN_A",
+      "formattedAddress": "QHQH+G7J, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.7888309,
+        "longitude": -0.42186219999999996
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=17309445448378982223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "طبخات امي 31",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJVzCwujpxfg0R305TUTKTyb4",
+      "nationalPhoneNumber": "0542 47 85 05",
+      "formattedAddress": "QHMH+975, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.7833049,
+        "longitude": -0.4213439
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=13747681181847211743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 22,
+      "displayName": {
+        "text": "Restaurant Hadj MiMi",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJrWzrFAB1fg0RlRh4cOaK1Ls",
+      "nationalPhoneNumber": "0791 75 56 14",
+      "formattedAddress": "RMWJ+XQ7, Arzew, Algeria",
+      "location": {
+        "latitude": 35.8474017,
+        "longitude": -0.3180936
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=13534595502489213077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Restaurant Djijli - مطعم الجيجلي",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJf5JVvZMPfg0Rt5r0guYRp5Q",
+      "nationalPhoneNumber": "041 76 61 61",
+      "formattedAddress": "QRRQ+9XJ, Mers El Hadjadj 31013, Algeria",
+      "location": {
+        "latitude": 35.7909435,
+        "longitude": -0.1600725
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=10711549920461232823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "La Table d'Oran Restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJvSpqMABxfg0RK17djW5ArvA",
+      "nationalPhoneNumber": "0780 07 98 68",
+      "formattedAddress": "QHJF+MWR, N11, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.7817611,
+        "longitude": -0.42514959999999996
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=17342870058621034027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Pecherie st Cloud",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJbb7JIZx8fg0R5x8AWbKZvcQ",
+      "nationalPhoneNumber": "0542 35 66 47",
+      "formattedAddress": "Ain Franine, Bir El Djir 31130, Algeria",
+      "location": {
+        "latitude": 35.7810888,
+        "longitude": -0.5101485
+      },
+      "rating": 3.2,
+      "googleMapsUri": "https://maps.google.com/?cid=14176656193308598247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lepetitchalet.co/",
+      "userRatingCount": 823,
+      "displayName": {
+        "text": "Restaurant Le Petit Chalet",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJo0DdSABzfg0RFEfwtQ9vDiE",
+      "formattedAddress": "RMG2+7FR, Arzew, Algeria",
+      "location": {
+        "latitude": 35.8257402,
+        "longitude": -0.34886079999999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2381963366193186580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant beladam Mhammed",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJi1_B_A5xfg0RRWjG3Rl_IQk",
+      "formattedAddress": "QJR8+4QQ, Hassi Mefsoukh, Algeria",
+      "location": {
+        "latitude": 35.790328099999996,
+        "longitude": -0.38301579999999996
+      },
+      "rating": 2.7,
+      "googleMapsUri": "https://maps.google.com/?cid=657946769644480581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Fast Food Les Fréres",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJZdcpYgJxfg0RPlVrofSYO78",
+      "nationalPhoneNumber": "0799 77 33 70",
+      "formattedAddress": "QHMJ+WF3, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.784669,
+        "longitude": -0.41896800000000006
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=13779775661317772606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "La Rosa food",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJw74qHgANfg0RSoYZLbsuXFA",
+      "nationalPhoneNumber": "0561 00 78 97",
+      "formattedAddress": "Aïn Bya, Algeria",
+      "location": {
+        "latitude": 35.776278999999995,
+        "longitude": -0.2827811
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=5790554602342024778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Sapori d’italia",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJp9OBlIRxfg0Rh51AlGbItZg",
+      "nationalPhoneNumber": "0794 95 64 38",
+      "formattedAddress": "146 BD Mohamed khemisti, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.777716999999996,
+        "longitude": -0.4320458
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=11003921607449156999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 7,
+      "displayName": {
+        "text": "مطعم الجيجلي restaurant jijeli",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJafKaJQBxfg0RrcoSqH0Z-YA",
+      "formattedAddress": "QHMH+FRJ, N11, Gdyel, Algeria",
+      "location": {
+        "latitude": 35.7837124,
+        "longitude": -0.42048159999999996
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9293487333537139373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Rôtisserie zaki",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJW_dOPwANfg0RtGXFsJEleLo",
+      "formattedAddress": "RP53+39R, Aïn Bya, Algeria",
+      "location": {
+        "latitude": 35.8077263,
+        "longitude": -0.2966206
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=13436530795926087092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Home'Eat",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJq57Bs7dzfg0R6OC-pomUt6c",
+      "formattedAddress": "QMV5+MR6, Aïn Bya, Algeria",
+      "location": {
+        "latitude": 35.7941619,
+        "longitude": -0.34048029999999996
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=12085291444000973032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "باست بب",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJrf6fAwANfg0RNED33LFNuYg",
+      "nationalPhoneNumber": "0541 53 35 32",
+      "formattedAddress": "Aïn Bya, Algeria",
+      "location": {
+        "latitude": 35.8096779,
+        "longitude": -0.28897819999999996
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=9851991086161412148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/profile.php?id=100095185998318&mibextid=ZbWKwL",
+      "userRatingCount": 14,
+      "displayName": {
+        "text": "Dadi's food",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJa49BdQBjfg0R6rAMGZZn1dg",
+      "nationalPhoneNumber": "0770 22 24 24",
+      "formattedAddress": "PC86+MXM, Bd Millenium 2, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.716712199999996,
+        "longitude": -0.5875922
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=15624508376594821354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 87,
+      "displayName": {
+        "text": "Lebanon Lebanese Restaurant & Cafe",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJuTGKWgKJfg0Rr0mVEaPvQyc",
+      "nationalPhoneNumber": "0541 86 55 31",
+      "formattedAddress": "Boulvard Des Lions, Oran, Algeria",
+      "location": {
+        "latitude": 35.7123302,
+        "longitude": -0.5739377999999999
+      },
+      "rating": 3.1,
+      "googleMapsUri": "https://maps.google.com/?cid=2829368474572507567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 457,
+      "displayName": {
+        "text": "Restaurant Djabali",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJd8ZGOwBjfg0R_fM-VXrKlaE",
+      "formattedAddress": "PCJQ+998, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.7310228,
+        "longitude": -0.5616002
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=11643435038401295357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Restaurant mainama",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ67T5UZ9zfg0RluNNEbwxIxU",
+      "formattedAddress": "RJ2G+JFV, Hassi Mefsoukh, Algeria",
+      "location": {
+        "latitude": 35.801604,
+        "longitude": -0.37383770000000005
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=1523115782795289494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "محل مواد غذائية بلال",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

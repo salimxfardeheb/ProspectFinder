@@ -1,0 +1,318 @@
+{
+  "places": [
+    {
+      "id": "ChIJq5gXIgBhfg0R2oMcyvnYT7A",
+      "formattedAddress": "JCRG+46F, Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.6403506,
+        "longitude": -0.574435
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=12704611641184781274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Pizzeria Ilyes",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJOXeNUACJfg0RCS9I1t4bWbU",
+      "nationalPhoneNumber": "0542 14 90 29",
+      "formattedAddress": "28 Bd Zabour Larbi, Oran, Algeria",
+      "location": {
+        "latitude": 35.6421089,
+        "longitude": -0.5737677999999999
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=13067506437683949321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 8,
+      "displayName": {
+        "text": "Speed food",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ8TNTeMZjfg0RrvGuCbkQpDQ",
+      "formattedAddress": "MC3M+26, Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.6525797,
+        "longitude": -0.5669295000000001
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=3793175173070254510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Primo's snack",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJTRezEgBhfg0RXPzHPuR4DRo",
+      "nationalPhoneNumber": "0772 73 44 24",
+      "formattedAddress": "JCXJ+M37, Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.649162499999996,
+        "longitude": -0.5698281
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=1877289541384535132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Pizzeria-nedjma",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJnXPARBljfg0RM6Nb7rqKKlg",
+      "nationalPhoneNumber": "0665 01 15 79",
+      "formattedAddress": "119 boulevard des lions, Bir El Djir 31000, Algeria",
+      "location": {
+        "latitude": 35.7106834,
+        "longitude": -0.5672463999999999
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=6353042759827039027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://atempooran.com/",
+      "userRatingCount": 252,
+      "displayName": {
+        "text": "Atempo Restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ02kiQwBnfg0RdrHUGraOGVU",
+      "nationalPhoneNumber": "0793 32 51 06",
+      "formattedAddress": "JFHH+C5G, El Braya, Algeria",
+      "location": {
+        "latitude": 35.6285508,
+        "longitude": -0.5220378999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6132089280426979702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Restaurant kfz mba",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ6RrQvslhfg0RODenLgoSZCw",
+      "nationalPhoneNumber": "0792 86 95 76",
+      "formattedAddress": "19 Cité amel, El Kerma 31000, Algeria",
+      "location": {
+        "latitude": 35.638888,
+        "longitude": -0.5861206
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=3198701470281578296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "BRO’s FOOD",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJnwWRSACJfg0Re7TZT-JnosI",
+      "nationalPhoneNumber": "040 56 33 32",
+      "formattedAddress": "Es Senia, Algeria",
+      "location": {
+        "latitude": 35.6546747,
+        "longitude": -0.6276144
+      },
+      "rating": 3.5,
+      "googleMapsUri": "https://maps.google.com/?cid=14024886411285083259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://menudigital.me/menutl/",
+      "userRatingCount": 11,
+      "displayName": {
+        "text": "Tlemçani Twins Restaurant Oran",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJsbx_3zdhfg0Rzz1Xa90C5Cc",
+      "nationalPhoneNumber": "0778 75 70 92",
+      "formattedAddress": "JCWH+FCG, Oran, Algeria",
+      "location": {
+        "latitude": 35.6461756,
+        "longitude": -0.5714334
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=2874425612181126607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Kabab Chawarma",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJoxciS3hhfg0RRcQPYWtnAmc",
+      "formattedAddress": "JCQ5+788, Rue Tapidor, Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.638151500000006,
+        "longitude": -0.591657
+      },
+      "rating": 2.9,
+      "googleMapsUri": "https://maps.google.com/?cid=7422608846747583557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 88,
+      "displayName": {
+        "text": "BBQ Party",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJi-Amn2xhfg0Ri-_0m4ItTGc",
+      "nationalPhoneNumber": "0553 05 00 30",
+      "formattedAddress": "Q639+7P8, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.6423098,
+        "longitude": -0.5814169
+      },
+      "rating": 3,
+      "googleMapsUri": "https://maps.google.com/?cid=7443374323122106251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/levoilieroran/",
+      "userRatingCount": 11,
+      "displayName": {
+        "text": "Restaurant Le Voilier Oran",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJR8w2NFphfg0RjBit5PiAepc",
+      "formattedAddress": "Centre commercial, Rue Tapidor, Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.6376406,
+        "longitude": -0.5914347
+      },
+      "rating": 3.1,
+      "googleMapsUri": "https://maps.google.com/?cid=10915178453362612364&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 135,
+      "displayName": {
+        "text": "O’saveurs d’istanbul",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ0QaCuomJfg0Rzt-KTrTIZsk",
+      "nationalPhoneNumber": "0797 42 81 34",
+      "formattedAddress": "M93F+C6G, Es Senia, Algeria",
+      "location": {
+        "latitude": 35.6535623,
+        "longitude": -0.6269135
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=14512507525985394638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 50,
+      "displayName": {
+        "text": "Le bon coin Restaurant Le Bon Coin",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ01ELMgBlfg0R_5olWe7Xowo",
+      "formattedAddress": "MF5G+RXX, Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.659624799999996,
+        "longitude": -0.5225200999999999
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=766693780280941311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "restaurant🍟🍕🍔 الأخوة",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJa49BdQBjfg0R6rAMGZZn1dg",
+      "nationalPhoneNumber": "0770 22 24 24",
+      "formattedAddress": "PC86+MXM, Bd Millenium 2, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.716712199999996,
+        "longitude": -0.5875922
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=15624508376594821354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 87,
+      "displayName": {
+        "text": "Lebanon Lebanese Restaurant & Cafe",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJuTGKWgKJfg0Rr0mVEaPvQyc",
+      "nationalPhoneNumber": "0541 86 55 31",
+      "formattedAddress": "Boulvard Des Lions, Oran, Algeria",
+      "location": {
+        "latitude": 35.7123302,
+        "longitude": -0.5739377999999999
+      },
+      "rating": 3.1,
+      "googleMapsUri": "https://maps.google.com/?cid=2829368474572507567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 457,
+      "displayName": {
+        "text": "Restaurant Djabali",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJiWj7IVphfg0RJI1ZtaZ5SGw",
+      "nationalPhoneNumber": "0776 66 33 38",
+      "formattedAddress": "JCVG+9WQ, Oran, Algeria",
+      "location": {
+        "latitude": 35.6434553,
+        "longitude": -0.5726506
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7802620111333461284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Brahim détergent",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ6eS684Zhfg0RlUZNHfc8D5w",
+      "nationalPhoneNumber": "0771 12 71 24",
+      "formattedAddress": "JCXH+6VF, Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.648071,
+        "longitude": -0.5703298
+      },
+      "rating": 3.4,
+      "googleMapsUri": "https://maps.google.com/?cid=11245273826613610133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 10,
+      "displayName": {
+        "text": "مطعم هشام ومصطفي",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJDWlDOABhfg0RKau8GEVZYTk",
+      "formattedAddress": "JCR8+67, Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.6409549,
+        "longitude": -0.5846388
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=4134684086205459241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 5,
+      "displayName": {
+        "text": "احمد اكل سريع ahmed fast food",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJPQCU1WBhfg0RIM_1uNiu5DQ",
+      "formattedAddress": "JCWH+XVP, Oran, Algeria",
+      "location": {
+        "latitude": 35.647527,
+        "longitude": -0.5702756
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=3811363430501568288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Karantika",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

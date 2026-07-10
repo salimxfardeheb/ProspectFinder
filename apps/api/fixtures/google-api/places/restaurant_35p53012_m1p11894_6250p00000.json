@@ -1,0 +1,315 @@
+{
+  "places": [
+    {
+      "id": "ChIJb7TnUADJfg0RjspJZbnNU7s",
+      "formattedAddress": "GVVH+5J5, El Messaid, Algeria",
+      "location": {
+        "latitude": 35.5428991,
+        "longitude": -1.1209026
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=13498358704311487118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "مطعم restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJdQKrdADJfg0RKsOoyxlrOFs",
+      "nationalPhoneNumber": "0770 21 50 30",
+      "formattedAddress": "GVVG+JJH, El Messaid, Algeria",
+      "location": {
+        "latitude": 35.5441986,
+        "longitude": -1.1242429999999999
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=6573121414682428202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Fresh food chez TSABIT",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJm83_WGzRfg0RifPllt40Snk",
+      "nationalPhoneNumber": "0552 29 74 27",
+      "formattedAddress": "9WM4+GJ4, El Malah, Algeria",
+      "location": {
+        "latitude": 35.383759999999995,
+        "longitude": -1.0934227
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=8739856157484905353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 67,
+      "displayName": {
+        "text": "Pêcherie La Guitare",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ3xzAdAC1fg0R-knxXfy9BBE",
+      "formattedAddress": "HVJ3+65J, Bou Zadjar, Algeria",
+      "location": {
+        "latitude": 35.580570699999996,
+        "longitude": -1.147163
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=1226313890157119994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Rabah resturant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJUe_OVgDRfg0RS7ySARkutT0",
+      "formattedAddress": "9WP4+3P3, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3851855,
+        "longitude": -1.0932198
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=4446510892033686603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "RESTAURANT LE PYRAMIDE",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ79kxPgDPfg0RcJ0tk6-Vy6M",
+      "nationalPhoneNumber": "0555 28 83 35",
+      "formattedAddress": "9WQ5+Q56, El Malah, Algeria",
+      "location": {
+        "latitude": 35.389315499999995,
+        "longitude": -1.0920718999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=11802691829775572336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "RESTAURANT TLEMÇANI",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJL4s_RgC1fg0Rz6l6X_s_H_I",
+      "nationalPhoneNumber": "0551 01 05 37",
+      "formattedAddress": "Wilaya d'Aïn Témouchent plage bouzedjar 2, Bouzedjar, Algeria",
+      "location": {
+        "latitude": 35.5671904,
+        "longitude": -1.1515121
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=17446733830327806415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Restaurant Les Habibas",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJBQgdPADTfg0RWazSrBVUClU",
+      "nationalPhoneNumber": "0770 89 05 25",
+      "formattedAddress": "Aïn Témouchent, Algeria",
+      "location": {
+        "latitude": 35.3076284,
+        "longitude": -1.1526857
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6127802695061515353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 5,
+      "displayName": {
+        "text": "RESTAURANT GRILL HOUSE",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ64-_GQDJfg0RAGZjtQdmHlw",
+      "formattedAddress": "GVVG+6R9, El Messaid, Algeria",
+      "location": {
+        "latitude": 35.5423275,
+        "longitude": -1.1238582
+      },
+      "rating": 3,
+      "googleMapsUri": "https://maps.google.com/?cid=6637855084084684288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Ben badis",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ6STQwDbRfg0Rw_vmcf29J_g",
+      "nationalPhoneNumber": "0662 77 29 12",
+      "formattedAddress": "46007, El Malah 46007, Algeria",
+      "location": {
+        "latitude": 35.384682999999995,
+        "longitude": -1.0932250000000001
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=17881469741733182403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 229,
+      "displayName": {
+        "text": "Pêcherie yemma Gouraya",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJJwOzQgC1fg0REMYPHhel8VQ",
+      "formattedAddress": "HVJ2+4VG, Bou Zadjar, Algeria",
+      "location": {
+        "latitude": 35.580653399999996,
+        "longitude": -1.1479151
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6120854887280395792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Paloma - Spécialité sardines chez Saïd",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJa_KNIwDHfg0RLvDJEpR_xVA",
+      "nationalPhoneNumber": "0778 71 84 94",
+      "formattedAddress": "GXFM+H89 cité 24 longe, El Amria, Algeria",
+      "location": {
+        "latitude": 35.5239104,
+        "longitude": -1.0166296
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=5820198367393345582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/mayabelouahrani",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Amélia_Delicias",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJEYZFTX21fg0RnTbh9xy1mL4",
+      "formattedAddress": "HVM3+8G9, Bou Zadjar, Algeria",
+      "location": {
+        "latitude": 35.5832907,
+        "longitude": -1.1461378
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=13733926199688771229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Restaurant / cafétéria panorama",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJzxNSQQDPfg0RjtyrH0g1Sh8",
+      "nationalPhoneNumber": "040 07 30 01",
+      "formattedAddress": "9WW5+7CJ, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3956085,
+        "longitude": -1.0914666
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=2254673147337628814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 17,
+      "displayName": {
+        "text": "Restaurant Pécherie la bouillabaisse 2",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ29bIEZCbfg0RE7epUwQVlFc",
+      "nationalPhoneNumber": "0674 58 87 55",
+      "formattedAddress": "P6VP+3QP, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.7429363,
+        "longitude": -0.7629943
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=6310692086180591379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 96,
+      "displayName": {
+        "text": "Restaurant hadja Saiida",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJJ_PNNyrQfg0RzApjVbxPxhs",
+      "nationalPhoneNumber": "0671 34 03 14",
+      "formattedAddress": "Bd Mohamed Khemisti, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3833795,
+        "longitude": -1.0934171
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=2001374754717764300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 86,
+      "displayName": {
+        "text": "El mansourah restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJv5HnMHi1fg0RX__EMqdwlZU",
+      "formattedAddress": "HRCQ+WJV Plage, Bouzedjar, Algeria",
+      "location": {
+        "latitude": 35.5723596,
+        "longitude": -1.1609464
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=10778645146594770783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Pizzeria",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ-15XMX3Ffg0R9ilJUGZowPA",
+      "formattedAddress": "Hassi el Ghella 46125, Algeria",
+      "location": {
+        "latitude": 35.4565048,
+        "longitude": -1.0518675
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17347980553274075638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant Faysal",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ95smqxHPfg0Rb9NwPJnhW4c",
+      "nationalPhoneNumber": "0771 80 58 83",
+      "formattedAddress": "boulevard 20 août 1956, Hassi El Ghella 46012, Algeria",
+      "location": {
+        "latitude": 35.4554295,
+        "longitude": -1.0530812
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=9753637466261214063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 11,
+      "displayName": {
+        "text": "la ruche Hassi El Ghella",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJY4VSv9HRfg0R4Ds_ZfdOSwA",
+      "nationalPhoneNumber": "0554 26 28 15",
+      "formattedAddress": "9WM4+QMM, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3844537,
+        "longitude": -1.0933195
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=21197447715830752&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 31,
+      "displayName": {
+        "text": "Le grand bleu chez Meziane",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

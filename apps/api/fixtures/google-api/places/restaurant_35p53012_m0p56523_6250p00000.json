@@ -1,0 +1,316 @@
+{
+  "places": [
+    {
+      "id": "ChIJnwWRSACJfg0Re7TZT-JnosI",
+      "nationalPhoneNumber": "040 56 33 32",
+      "formattedAddress": "Es Senia, Algeria",
+      "location": {
+        "latitude": 35.6546747,
+        "longitude": -0.6276144
+      },
+      "rating": 3.5,
+      "googleMapsUri": "https://maps.google.com/?cid=14024886411285083259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://menudigital.me/menutl/",
+      "userRatingCount": 11,
+      "displayName": {
+        "text": "Tlemçani Twins Restaurant Oran",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ02kiQwBnfg0RdrHUGraOGVU",
+      "nationalPhoneNumber": "0793 32 51 06",
+      "formattedAddress": "JFHH+C5G, El Braya, Algeria",
+      "location": {
+        "latitude": 35.6285508,
+        "longitude": -0.5220378999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6132089280426979702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Restaurant kfz mba",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJT_cVKQBhfg0RRwsJ1k4oNCc",
+      "formattedAddress": "HF95+6G, El Kerma, Algeria",
+      "location": {
+        "latitude": 35.568050299999996,
+        "longitude": -0.5411292
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=2824927185331620679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Zoubir",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJSWvwPwBDfg0RledS_5OpLnI",
+      "formattedAddress": "HH22+VFW, Oued Tlelat, Algeria",
+      "location": {
+        "latitude": 35.552234899999995,
+        "longitude": -0.4487997
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=8227700022361384853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Restaurant Numedia",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJuTGKWgKJfg0Rr0mVEaPvQyc",
+      "nationalPhoneNumber": "0541 86 55 31",
+      "formattedAddress": "Boulvard Des Lions, Oran, Algeria",
+      "location": {
+        "latitude": 35.7123302,
+        "longitude": -0.5739377999999999
+      },
+      "rating": 3.1,
+      "googleMapsUri": "https://maps.google.com/?cid=2829368474572507567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 457,
+      "displayName": {
+        "text": "Restaurant Djabali",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJa49BdQBjfg0R6rAMGZZn1dg",
+      "nationalPhoneNumber": "0770 22 24 24",
+      "formattedAddress": "PC86+MXM, Bd Millenium 2, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.716712199999996,
+        "longitude": -0.5875922
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=15624508376594821354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 87,
+      "displayName": {
+        "text": "Lebanon Lebanese Restaurant & Cafe",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ0QaCuomJfg0Rzt-KTrTIZsk",
+      "nationalPhoneNumber": "0797 42 81 34",
+      "formattedAddress": "M93F+C6G, Es Senia, Algeria",
+      "location": {
+        "latitude": 35.6535623,
+        "longitude": -0.6269135
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=14512507525985394638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 50,
+      "displayName": {
+        "text": "Le bon coin Restaurant Le Bon Coin",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJoxciS3hhfg0RRcQPYWtnAmc",
+      "formattedAddress": "JCQ5+788, Rue Tapidor, Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.638151500000006,
+        "longitude": -0.591657
+      },
+      "rating": 2.9,
+      "googleMapsUri": "https://maps.google.com/?cid=7422608846747583557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 88,
+      "displayName": {
+        "text": "BBQ Party",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJIUeGFABjfg0RiyD6TjZdRMQ",
+      "nationalPhoneNumber": "0557 82 63 90",
+      "formattedAddress": "PCC6+HQX, Oran, Algeria",
+      "location": {
+        "latitude": 35.721455,
+        "longitude": -0.5877176
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=14142531217684832395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 206,
+      "displayName": {
+        "text": "Autentica restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ01ELMgBlfg0R_5olWe7Xowo",
+      "formattedAddress": "MF5G+RXX, Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.659624799999996,
+        "longitude": -0.5225200999999999
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=766693780280941311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "restaurant🍟🍕🍔 الأخوة",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJGZ98wstjfg0RoG_zSW5WH40",
+      "nationalPhoneNumber": "0550 39 00 36",
+      "formattedAddress": "Bd Millenium 2, Bir El Djir 31000, Algeria",
+      "location": {
+        "latitude": 35.7164572,
+        "longitude": -0.5802685
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=10168941515312951200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 13,
+      "displayName": {
+        "text": "Meat & Chill Restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJpU0wFuSJfg0RU88NVU7jSq4",
+      "nationalPhoneNumber": "0671 77 71 06",
+      "formattedAddress": "M9VF+J8R, Rue Haieb, Oran, Algeria",
+      "location": {
+        "latitude": 35.6941026,
+        "longitude": -0.6267319
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=12559100436449972051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 14,
+      "displayName": {
+        "text": "Restaurant Smaïn",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJT2DdTwBjfg0REV0iWzHJ7t4",
+      "nationalPhoneNumber": "0550 05 53 89",
+      "formattedAddress": "PC89+98H, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.715937499999995,
+        "longitude": -0.5816406
+      },
+      "rating": 2.4,
+      "googleMapsUri": "https://maps.google.com/?cid=16063998134696697105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 47,
+      "displayName": {
+        "text": "Restaurant L’océan",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJmUt0ry-Jfg0RdYu0veg4ypM",
+      "nationalPhoneNumber": "0560 51 50 05",
+      "formattedAddress": "P97Q+H88, Av. Djellat Habib, Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.7139069,
+        "longitude": -0.6116644
+      },
+      "rating": 3.4,
+      "googleMapsUri": "https://maps.google.com/?cid=10649386841137253237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 94,
+      "displayName": {
+        "text": "Restaurant Villa Riviera",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJYVPL_XOLfg0RdlFQ4BtxDLQ",
+      "formattedAddress": "J9XM+GQ9، شارع الأمير عبد القادر، Es Senia, Algeria",
+      "location": {
+        "latitude": 35.648784899999995,
+        "longitude": -0.6155197
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=12973868991088972150&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "كرانتيكا عند الإخوة محمد",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJN-PueyWJfg0RPX7W4aSNWLs",
+      "nationalPhoneNumber": "0560 70 53 01",
+      "formattedAddress": "M88V+RM7, Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.6667497,
+        "longitude": -0.6544911999999999
+      },
+      "rating": 3.5,
+      "googleMapsUri": "https://maps.google.com/?cid=13499695622346145341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 49,
+      "displayName": {
+        "text": "مطعم بلادي Restaurant Bladi",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJQSkRn52Jfg0RqPmyKcWfTJw",
+      "formattedAddress": "M996+28M, Oran, Algeria",
+      "location": {
+        "latitude": 35.6675951,
+        "longitude": -0.6392158
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=11262552437303736744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Restaurant le Président",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJwZr-dgBjfg0RZQtA6J3y1VM",
+      "formattedAddress": "39 W33, Oran, Algeria",
+      "location": {
+        "latitude": 35.6758197,
+        "longitude": -0.6006116
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=6041001235207687013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 50,
+      "displayName": {
+        "text": "Maharaja Indian Restaurant AZ MALL",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJXRTdXjuIfg0Rj2XVG-kVI8Y",
+      "nationalPhoneNumber": "0660 92 97 98",
+      "formattedAddress": "P96Q+M65, Bd Wahrani Boumediene, Oran, Algeria",
+      "location": {
+        "latitude": 35.7116292,
+        "longitude": -0.6118996999999999
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=14277279334633137551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.burjwahran.com/",
+      "userRatingCount": 230,
+      "displayName": {
+        "text": "Burj Wahran",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJv0AxG45ffg0Rv5CbzkbV5rA",
+      "formattedAddress": "Tafraoui 31084, Algeria",
+      "location": {
+        "latitude": 35.487623899999996,
+        "longitude": -0.5278288999999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12747110295409496255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "مقهى سيدي غالم",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

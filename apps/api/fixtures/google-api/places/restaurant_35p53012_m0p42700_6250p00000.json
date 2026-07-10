@@ -1,0 +1,309 @@
+{
+  "places": [
+    {
+      "id": "ChIJSWvwPwBDfg0RledS_5OpLnI",
+      "formattedAddress": "HH22+VFW, Oued Tlelat, Algeria",
+      "location": {
+        "latitude": 35.552234899999995,
+        "longitude": -0.4487997
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=8227700022361384853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Restaurant Numedia",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJDVxR3edDfg0RjLvB6d6VR5k",
+      "formattedAddress": "GH8Q+G7F, N13, Zahana, Algeria",
+      "location": {
+        "latitude": 35.516200999999995,
+        "longitude": -0.4117338
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=11044961395786496908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "YANISS FOOD",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJyfAyliddfg0RWk53verkbmw",
+      "nationalPhoneNumber": "0561 45 13 16",
+      "formattedAddress": "Oran Oued tlelat Boudief, Oued Tlélat 31140, Algeria",
+      "location": {
+        "latitude": 35.5494238,
+        "longitude": -0.4544441999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=7813434100386582106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Bek coffee",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJs3BQFGhDfg0RO_7a9f_7oxw",
+      "nationalPhoneNumber": "0797 81 50 25",
+      "formattedAddress": "31037, Oran 31037, Algeria",
+      "location": {
+        "latitude": 35.5498118,
+        "longitude": -0.4497128
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=2063770131025821243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Pizzeria lassos",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJicA7qfpDfg0REr6K9uc35Jo",
+      "formattedAddress": "GH8Q+M8J, N13, Zahana, Algeria",
+      "location": {
+        "latitude": 35.516707,
+        "longitude": -0.41173050000000005
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=11161107245944192530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "restaurant adel plus",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJsVON9PlDfg0RYx7sR5XRqf4",
+      "formattedAddress": "35°32'31.0\"N 0°24'46.3\"W، Oued Tlelat 31037, Algeria",
+      "location": {
+        "latitude": 35.5420294,
+        "longitude": -0.4127824
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=18350428595784785507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Rwabeh food",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJpUCfjKpDfg0RGnRYksXZ4NY",
+      "nationalPhoneNumber": "0792 33 38 70",
+      "formattedAddress": "Zhana_oren 11972, Algeria",
+      "location": {
+        "latitude": 35.5165615,
+        "longitude": -0.41128539999999997
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=15483614961486820378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "ARR",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJF8vPPQBDfg0R0I7OWafYV64",
+      "formattedAddress": "HH32+2GW, N13, Oued Tlélat, Algeria",
+      "location": {
+        "latitude": 35.5526231,
+        "longitude": -0.4486759
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=12562747898851135184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "كبدة عند أخينا",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJ02kiQwBnfg0RdrHUGraOGVU",
+      "nationalPhoneNumber": "0793 32 51 06",
+      "formattedAddress": "JFHH+C5G, El Braya, Algeria",
+      "location": {
+        "latitude": 35.6285508,
+        "longitude": -0.5220378999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6132089280426979702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Restaurant kfz mba",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJFdRzdQBdfg0Rhpb83sqkQbk",
+      "formattedAddress": "HG3W+5H7, Oued Tlelat, Algeria",
+      "location": {
+        "latitude": 35.5536763,
+        "longitude": -0.45344650000000003
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=13349131961734305414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Buffalo snack",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJVbPKRgBDfg0RMDkBeNNc9Ow",
+      "nationalPhoneNumber": "0781 88 61 77",
+      "formattedAddress": "HH43+VRQ, Oued Tlelat, Algeria",
+      "location": {
+        "latitude": 35.5572753,
+        "longitude": -0.4454702
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=17074374150589593904&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 7,
+      "displayName": {
+        "text": "La Casa Del Pizza 🍕.",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJiQEoa01dfg0R9LAGqIYnyGw",
+      "nationalPhoneNumber": "0560 06 51 12",
+      "formattedAddress": "HG3X+399, Oued Tlelat, Algeria",
+      "location": {
+        "latitude": 35.5526641,
+        "longitude": -0.4515211
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=7838558610736460020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 13,
+      "displayName": {
+        "text": "Restaurant Bora Bora 31",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJsRcE-aNDfg0RQ1nbY2YpoEs",
+      "formattedAddress": "GH9R+RMF, Zahana, Algeria",
+      "location": {
+        "latitude": 35.519352399999995,
+        "longitude": -0.4080914
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=5449401068857022787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Pizzeria rotana",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJCWWDYABdfg0RzJUdQR-_B00",
+      "formattedAddress": "HG3V+9GW, RN4, Oued Tlelat, Algeria",
+      "location": {
+        "latitude": 35.553602999999995,
+        "longitude": -0.4560439
+      },
+      "rating": 3.6,
+      "googleMapsUri": "https://maps.google.com/?cid=5550615206714774988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 5,
+      "displayName": {
+        "text": "Restaurant ni média oued tlilat",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ8x1GoXtdfg0RRu_RZkdUxZU",
+      "nationalPhoneNumber": "0771 84 99 30",
+      "formattedAddress": "HG3V+9RP, Oued Tlelat, Algeria",
+      "location": {
+        "latitude": 35.553342199999996,
+        "longitude": -0.45545349999999996
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10792124747707707206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant la liberté",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJO7uzXfdDfg0RJQ1wzBgxRho",
+      "nationalPhoneNumber": "0552 26 83 18",
+      "formattedAddress": "HH32+MM3, N13, Oued Tlélat, Algeria",
+      "location": {
+        "latitude": 35.5540601,
+        "longitude": -0.44837059999999995
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=1893254675934743845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Green food",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJHVKtiXZDfg0RZkHfVUt0naA",
+      "formattedAddress": "GJP7+5RC, RN4, Zahana, Algeria",
+      "location": {
+        "latitude": 35.535438899999995,
+        "longitude": -0.38549649999999996
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=11573534484324106598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 7,
+      "displayName": {
+        "text": "مطعم لمويس",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJKRylsq1Dfg0R6f7zMga9rGY",
+      "nationalPhoneNumber": "0662 00 92 44",
+      "formattedAddress": "140 cité logement, Oued Tlélat 31037, Algeria",
+      "location": {
+        "latitude": 35.550294799999996,
+        "longitude": -0.4390321
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=7398496122185187049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 5,
+      "displayName": {
+        "text": "MBC PIZZA",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJKydUIwBDfg0RXV2Sv5ghOHg",
+      "formattedAddress": "GH8Q+F5V, Rue de bel abbes, Zahana 29000, Algeria",
+      "location": {
+        "latitude": 35.5162444,
+        "longitude": -0.41208150000000004
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8662710823179935069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "ملبنة",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJWe7rPLNCfg0RxfA5qeAuhDM",
+      "formattedAddress": "HH22+57X, N13, Oued Tlélat, Algeria",
+      "location": {
+        "latitude": 35.5504806,
+        "longitude": -0.4492645999999999
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=3712143535306830021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 8,
+      "displayName": {
+        "text": "Pizzeria slimane",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

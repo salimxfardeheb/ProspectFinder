@@ -1,0 +1,314 @@
+{
+  "places": [
+    {
+      "id": "ChIJ29bIEZCbfg0RE7epUwQVlFc",
+      "nationalPhoneNumber": "0674 58 87 55",
+      "formattedAddress": "P6VP+3QP, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.7429363,
+        "longitude": -0.7629943
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=6310692086180591379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 96,
+      "displayName": {
+        "text": "Restaurant hadja Saiida",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJN2B8VwCbfg0RkaAXHJBQl7U",
+      "nationalPhoneNumber": "0781 01 53 50",
+      "formattedAddress": "P6QW+R9V, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.7396698,
+        "longitude": -0.7540969000000001
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=13085015822225088657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/gusta_sandwicherie?igsh=MW0wbjFxcHR3b2twdg==",
+      "userRatingCount": 11,
+      "displayName": {
+        "text": "Restaurant Gusta",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJF_uyFgCRfg0RmKiwAYkgCkM",
+      "formattedAddress": "31000, Aïn El Turk 31000, Algeria",
+      "location": {
+        "latitude": 35.738087199999995,
+        "longitude": -0.7541802
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=4830709323119241368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Restaurant burrata",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJl5-LE4Kbfg0RFNukJbdoXBg",
+      "nationalPhoneNumber": "0775 02 10 45",
+      "formattedAddress": "P6VM+J2P, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.7455765,
+        "longitude": -0.7688103
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=1755393090587515668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 87,
+      "displayName": {
+        "text": "Restaurant Le pêcheur (djamel paella)",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJuzi6dxCXfg0RHb_HTEz8-04",
+      "nationalPhoneNumber": "0797 00 68 52",
+      "formattedAddress": "Bousfer 31000, Algeria",
+      "location": {
+        "latitude": 35.730058199999995,
+        "longitude": -0.844793
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=5691419958748626717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 24,
+      "displayName": {
+        "text": "Restaurant Le Cabestan",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJGTFENgCbfg0R_A1PI59dq2c",
+      "formattedAddress": "Local bloc A, bvd de la république, Aïn El Turk, Algeria",
+      "location": {
+        "latitude": 35.7431872,
+        "longitude": -0.7728311
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7470167344997666300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant MOOD Mazaj (مزاج)",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJUe_OVgDRfg0RS7ySARkutT0",
+      "formattedAddress": "9WP4+3P3, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3851855,
+        "longitude": -1.0932198
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=4446510892033686603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "RESTAURANT LE PYRAMIDE",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ7dAoRwCPfg0ReOzLp_628nU",
+      "formattedAddress": "Trouville, Aïn El Turk, Algeria",
+      "location": {
+        "latitude": 35.7380804,
+        "longitude": -0.7377661
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=8499056651654655096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Bar restaurant le méditerranée",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJh8YnQKSafg0RhcrBM30AuOY",
+      "nationalPhoneNumber": "0771 21 93 44",
+      "formattedAddress": "P6WM+2GR, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.74511770000001,
+        "longitude": -0.7662367
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=16625038562177436293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 185,
+      "displayName": {
+        "text": "Restaurant Le Marin II",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJgy7Sc3Obfg0RblfGe96px8E",
+      "nationalPhoneNumber": "0553 75 51 20",
+      "formattedAddress": "P6XG+G9X, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.748802700000006,
+        "longitude": -0.7740996
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=13963315942709942126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 153,
+      "displayName": {
+        "text": "Restaurant O'poisson",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJb0WQPwCJfg0RGzZNhj8yWeg",
+      "formattedAddress": "P87Q+R33, Mers El Kébir, Algeria",
+      "location": {
+        "latitude": 35.7145078,
+        "longitude": -0.6623435999999999
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=16742468338144065051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 8,
+      "displayName": {
+        "text": "Restaurant madame shou shita",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJEYZFTX21fg0RnTbh9xy1mL4",
+      "formattedAddress": "HVM3+8G9, Bou Zadjar, Algeria",
+      "location": {
+        "latitude": 35.5832907,
+        "longitude": -1.1461378
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=13733926199688771229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Restaurant / cafétéria panorama",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJsWkXrvuIfg0RuXZ9WPf8mUo",
+      "formattedAddress": "06 Rue de la Paix, Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.702779299999996,
+        "longitude": -0.6461352
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=5375605769515136697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://app.restolink.net/m/lemarquis",
+      "userRatingCount": 153,
+      "displayName": {
+        "text": "Restaurant Le Marquis",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJvSwxYQCJfg0RsRLt6YV7w3Y",
+      "nationalPhoneNumber": "0795 87 66 26",
+      "formattedAddress": "P84X+739, Rue des Frères Dahli, Oran, Algeria",
+      "location": {
+        "latitude": 35.705669799999995,
+        "longitude": -0.6522568999999999
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=8557819532019569329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Restaurant samir monté cristo",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJL4s_RgC1fg0Rz6l6X_s_H_I",
+      "nationalPhoneNumber": "0551 01 05 37",
+      "formattedAddress": "Wilaya d'Aïn Témouchent plage bouzedjar 2, Bouzedjar, Algeria",
+      "location": {
+        "latitude": 35.5671904,
+        "longitude": -1.1515121
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=17446733830327806415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Restaurant Les Habibas",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJoaWcI9_Hfg0Ri3NbgCAv9eg",
+      "nationalPhoneNumber": "0792 17 71 28",
+      "formattedAddress": "El Amria, Algeria",
+      "location": {
+        "latitude": 35.526303299999995,
+        "longitude": -1.0077882999999999
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=16786375002732327819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 13,
+      "displayName": {
+        "text": "Restaurant Sardine ( Chez Chergui )",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJmbVFce6Xfg0RrQ7RdMSbcME",
+      "nationalPhoneNumber": "0772 17 63 69",
+      "formattedAddress": "P5G2+5JM, Bousfer, Algeria",
+      "location": {
+        "latitude": 35.7254836,
+        "longitude": -0.8485051
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=13938812114787438253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 7,
+      "displayName": {
+        "text": "Viva restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJz1Kw4qKafg0RFdDOOUpPI0o",
+      "nationalPhoneNumber": "041 10 90 02",
+      "formattedAddress": "N°6 place 20 août , restaurant la calypso, Ain El Turk 31300, Algeria",
+      "location": {
+        "latitude": 35.7471986,
+        "longitude": -0.7700152
+      },
+      "rating": 3.6,
+      "googleMapsUri": "https://maps.google.com/?cid=5342200763207569429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/calypso.oran/?ref=bookmarks",
+      "userRatingCount": 407,
+      "displayName": {
+        "text": "Calypso",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJb7TnUADJfg0RjspJZbnNU7s",
+      "formattedAddress": "GVVH+5J5, El Messaid, Algeria",
+      "location": {
+        "latitude": 35.5428991,
+        "longitude": -1.1209026
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=13498358704311487118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "مطعم restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJxXxRHD61fg0R-8tHtiApzYA",
+      "formattedAddress": "plage 2, Bouzedjar, Algeria",
+      "location": {
+        "latitude": 35.5730967,
+        "longitude": -1.1573347
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9281119627554311163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Sun & Moon restaurant plage",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

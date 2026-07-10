@@ -1,0 +1,314 @@
+{
+  "places": [
+    {
+      "id": "ChIJBQgdPADTfg0RWazSrBVUClU",
+      "nationalPhoneNumber": "0770 89 05 25",
+      "formattedAddress": "Aïn Témouchent, Algeria",
+      "location": {
+        "latitude": 35.3076284,
+        "longitude": -1.1526857
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6127802695061515353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 5,
+      "displayName": {
+        "text": "RESTAURANT GRILL HOUSE",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJUe_OVgDRfg0RS7ySARkutT0",
+      "formattedAddress": "9WP4+3P3, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3851855,
+        "longitude": -1.0932198
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=4446510892033686603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "RESTAURANT LE PYRAMIDE",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ79kxPgDPfg0RcJ0tk6-Vy6M",
+      "nationalPhoneNumber": "0555 28 83 35",
+      "formattedAddress": "9WQ5+Q56, El Malah, Algeria",
+      "location": {
+        "latitude": 35.389315499999995,
+        "longitude": -1.0920718999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=11802691829775572336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "RESTAURANT TLEMÇANI",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ6STQwDbRfg0Rw_vmcf29J_g",
+      "nationalPhoneNumber": "0662 77 29 12",
+      "formattedAddress": "46007, El Malah 46007, Algeria",
+      "location": {
+        "latitude": 35.384682999999995,
+        "longitude": -1.0932250000000001
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=17881469741733182403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 229,
+      "displayName": {
+        "text": "Pêcherie yemma Gouraya",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJS4Q3ZADPfg0R8ldad0IFgGI",
+      "formattedAddress": "9WV5+9C6, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3934231,
+        "longitude": -1.0914986
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=7097678795764291570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 43,
+      "displayName": {
+        "text": "Le Sopretour",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJC8F0nyjafg0RBcGQoO12lXY",
+      "formattedAddress": "8X2C+W3V, Chentouf, Algeria",
+      "location": {
+        "latitude": 35.3023528,
+        "longitude": -1.0298173000000002
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=8544866630978552069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Restaurant Djadi Said",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJY4VSv9HRfg0R4Ds_ZfdOSwA",
+      "nationalPhoneNumber": "0554 26 28 15",
+      "formattedAddress": "9WM4+QMM, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3844537,
+        "longitude": -1.0933195
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=21197447715830752&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 31,
+      "displayName": {
+        "text": "Le grand bleu chez Meziane",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJJ_PNNyrQfg0RzApjVbxPxhs",
+      "nationalPhoneNumber": "0671 34 03 14",
+      "formattedAddress": "Bd Mohamed Khemisti, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3833795,
+        "longitude": -1.0934171
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=2001374754717764300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 86,
+      "displayName": {
+        "text": "El mansourah restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJzxNSQQDPfg0RjtyrH0g1Sh8",
+      "nationalPhoneNumber": "040 07 30 01",
+      "formattedAddress": "9WW5+7CJ, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3956085,
+        "longitude": -1.0914666
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=2254673147337628814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 17,
+      "displayName": {
+        "text": "Restaurant Pécherie la bouillabaisse 2",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJW6FcOMvVfg0RkEtgy0LdmkE",
+      "nationalPhoneNumber": "0550 73 22 11",
+      "formattedAddress": "30 Rue EMIR ABDELKADER, Aïn Témouchent 46000, Algeria",
+      "location": {
+        "latitude": 35.2906741,
+        "longitude": -1.1387315999999998
+      },
+      "rating": 2.6,
+      "googleMapsUri": "https://maps.google.com/?cid=4727334037828422544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 10,
+      "displayName": {
+        "text": "Restaurant Syrien zaim",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJk19ntUHRfg0RSodAvkj5a-k",
+      "nationalPhoneNumber": "0770 60 95 45",
+      "formattedAddress": "9WM4+3HP, Unnamed Road, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3827204,
+        "longitude": -1.0935324
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=16819811324170110794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 40,
+      "displayName": {
+        "text": "Restaurant Le Bon Coin",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJQ1cvsVDdfg0Rf9-6S7bkuTg",
+      "nationalPhoneNumber": "0777 24 26 80",
+      "formattedAddress": "92HG+738, Bd Mohamed Khemisti, Hammam Bou Hadjar, Algeria",
+      "location": {
+        "latitude": 35.3781727,
+        "longitude": -0.9748049
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=4087549608421154687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "B.B.KING",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJkS92SADTfg0R-n1hVl5HkAs",
+      "nationalPhoneNumber": "0554 33 97 70",
+      "formattedAddress": "8R3X+CGH, Aïn Témouchent, Algeria",
+      "location": {
+        "latitude": 35.3037207,
+        "longitude": -1.1512826
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=833244401565269498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 47,
+      "displayName": {
+        "text": "Medicis panéra",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJTRUBMAD_fg0RGhaQm7wy7aE",
+      "nationalPhoneNumber": "0795 99 61 55",
+      "formattedAddress": "2 Boulevard de la Macta, Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.219284699999996,
+        "longitude": -0.6338334999999999
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=11668037995231974938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.qrorderdz.com/etablisement/user_table?uid=114&name=Le+Neuf",
+      "userRatingCount": 20,
+      "displayName": {
+        "text": "Restaurant Le neuf",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ-15XMX3Ffg0R9ilJUGZowPA",
+      "formattedAddress": "Hassi el Ghella 46125, Algeria",
+      "location": {
+        "latitude": 35.4565048,
+        "longitude": -1.0518675
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17347980553274075638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant Faysal",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ3-BZcgDVfg0R_R7dMVooG64",
+      "nationalPhoneNumber": "0560 18 33 19",
+      "formattedAddress": "7VR7+QPJ, Rue 1er Mai, Aïn Témouchent, Algeria",
+      "location": {
+        "latitude": 35.2917868,
+        "longitude": -1.1356465999999998
+      },
+      "rating": 2.5,
+      "googleMapsUri": "https://maps.google.com/?cid=12545665554819391229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 129,
+      "displayName": {
+        "text": "LARRY FRIED CHICKEN",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJMyJkdJPdfg0RgBSqFM1G7y4",
+      "formattedAddress": "92GM+J5V, Hammam Bou Hadjar, Algeria",
+      "location": {
+        "latitude": 35.3766088,
+        "longitude": -0.9670822999999998
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=3381999691807462528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Pizzirien tariko",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJzQOkC2HTfg0R9WLaG09mCw0",
+      "nationalPhoneNumber": "0559 30 20 58",
+      "formattedAddress": "تونسي حي الشهيد بوعلالي عبد الله, Aïn Témouchent, Algeria",
+      "location": {
+        "latitude": 35.3072763,
+        "longitude": -1.1431502999999998
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=939957437192626933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Snack king",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJAQAAANXPfg0R4CDfyNJ-j20",
+      "formattedAddress": "9WQ4+85G, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3883206,
+        "longitude": -1.0945411999999999
+      },
+      "rating": 3.5,
+      "googleMapsUri": "https://maps.google.com/?cid=7894668115582066912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 12,
+      "displayName": {
+        "text": "RESTAURANT ZNAGUI",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ60X-TQDTfg0RFaWXO19dF5A",
+      "formattedAddress": "8V62+H9C, Aïn Témouchent, Algeria",
+      "location": {
+        "latitude": 35.3114767,
+        "longitude": -1.1491395
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10382870129529038101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant Djimi",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "places": [
+    {
+      "id": "ChIJ_3dWWwBRfg0RxxhIEsEW2q0",
+      "formattedAddress": "9F8R+743 بلدية، عين البرد 22022, Algeria",
+      "location": {
+        "latitude": 35.3656296,
+        "longitude": -0.5096978
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=12527350331975669959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "مطعم الجيجلي",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJH6y-VwBRfg0RVP0XLrerQbM",
+      "nationalPhoneNumber": "06000000",
+      "formattedAddress": "9F7P+2VV, Aïn Berda 22022, Algeria",
+      "location": {
+        "latitude": 35.362618,
+        "longitude": -0.5128201
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=12916794009515982164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Ain berd",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJTRUBMAD_fg0RGhaQm7wy7aE",
+      "nationalPhoneNumber": "0795 99 61 55",
+      "formattedAddress": "2 Boulevard de la Macta, Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.219284699999996,
+        "longitude": -0.6338334999999999
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=11668037995231974938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.qrorderdz.com/etablisement/user_table?uid=114&name=Le+Neuf",
+      "userRatingCount": 20,
+      "displayName": {
+        "text": "Restaurant Le neuf",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ45YnvwVRfg0RnXn37jo3H0s",
+      "nationalPhoneNumber": "0675 20 16 74",
+      "formattedAddress": "9F8Q+R9H, Ain el Berd 22022, Algeria",
+      "location": {
+        "latitude": 35.3670508,
+        "longitude": -0.5115109999999999
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=5413106003379452317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Lmoustache",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ7bBaBQBRfg0Rt7Wwu2EcyXA",
+      "formattedAddress": "9F8P+CMF, Ain el Berd 22022, Algeria",
+      "location": {
+        "latitude": 35.366057,
+        "longitude": -0.5133363
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8127058208653096375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "مطعم الاصيل",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJYehcfvRRfg0RzlbTC7MTE-U",
+      "formattedAddress": "9F7Q+VGJ, Rue des Aures, Aïn el Berd 22000, Algeria",
+      "location": {
+        "latitude": 35.3647105,
+        "longitude": -0.5112278
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16506558718961473230&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Pizzeria",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJSWvwPwBDfg0RledS_5OpLnI",
+      "formattedAddress": "HH22+VFW, Oued Tlelat, Algeria",
+      "location": {
+        "latitude": 35.552234899999995,
+        "longitude": -0.4487997
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=8227700022361384853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Restaurant Numedia",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJkwpfZgJRfg0RQ6qWraSDFdY",
+      "nationalPhoneNumber": "0770 37 33 81",
+      "formattedAddress": "9F8P+FPG, Rue mohamed khemisti, Aïn el Berd 22022, Algeria",
+      "location": {
+        "latitude": 35.366189399999996,
+        "longitude": -0.5131751999999999
+      },
+      "rating": 3,
+      "googleMapsUri": "https://maps.google.com/?cid=15426380841937709635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "مطعم وليد",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ02kiQwBnfg0RdrHUGraOGVU",
+      "nationalPhoneNumber": "0793 32 51 06",
+      "formattedAddress": "JFHH+C5G, El Braya, Algeria",
+      "location": {
+        "latitude": 35.6285508,
+        "longitude": -0.5220378999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6132089280426979702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Restaurant kfz mba",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJaVpSxFRRfg0RhyZ8RfLAvPU",
+      "formattedAddress": "9F9Q+PM8, Ain el Berd 22022, Algeria",
+      "location": {
+        "latitude": 35.3693205,
+        "longitude": -0.5108146
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=17707239981694330503&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Feed me",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJS4yT780Bfw0RZCsk4qGqUKs",
+      "nationalPhoneNumber": "0658 74 07 04",
+      "formattedAddress": "Place el Wiaam, Sidi Bel Abbès 22000, Algeria",
+      "location": {
+        "latitude": 35.2083101,
+        "longitude": -0.6265451
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=12344554190883007332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/sefarsba/",
+      "userRatingCount": 41,
+      "displayName": {
+        "text": "Sefar سيفار",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ0ZRdracBfw0RbZmBXfMtUR8",
+      "nationalPhoneNumber": "0560 34 95 88",
+      "formattedAddress": "نهج المرشح سعدان،, Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.1862339,
+        "longitude": -0.6322031
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=2256635411558406509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://beacons.ai/laparrillada",
+      "userRatingCount": 95,
+      "displayName": {
+        "text": "La Parrillada Restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJiVq2clNRfg0RJ4aCWqKIBik",
+      "nationalPhoneNumber": "0773 87 93 11",
+      "formattedAddress": "9F8P+9PF, Ain el Berd 22022, Algeria",
+      "location": {
+        "latitude": 35.3659257,
+        "longitude": -0.5132114999999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2956200436299892263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Sfanj wa karan",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ0Zc8FTkAfw0RnRsJoaPDW3g",
+      "nationalPhoneNumber": "0550 53 76 43",
+      "formattedAddress": "59WF+4C3, Rue Lieutenant Abdelkrim, Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.1952668,
+        "longitude": -0.6264375
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=8672740614980836253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 103,
+      "displayName": {
+        "text": "Restaurant Mont Plaisir Chez Negro",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJs67Kw5QBfw0RvMwhxmYFLns",
+      "nationalPhoneNumber": "0540 68 62 18",
+      "formattedAddress": "bloc N4, makam chahid, Sidi Bel Abbès 22000, Algeria",
+      "location": {
+        "latitude": 35.1792551,
+        "longitude": -0.6340146
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=8876037854562733244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Roadhouse restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ12ftA6r_fg0R-djdNZCN1L0",
+      "nationalPhoneNumber": "0556 86 09 49",
+      "formattedAddress": "69FH+3RP, Unnamed Road, Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.222711,
+        "longitude": -0.6204351
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=13678713618749577465&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 42,
+      "displayName": {
+        "text": "Pêcherie le capitaine",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJwRif2j9bfg0RTOiAu74lJGE",
+      "formattedAddress": "CGMV+CC2, Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.4335145,
+        "longitude": -0.45648239999999995
+      },
+      "rating": 3.6,
+      "googleMapsUri": "https://maps.google.com/?cid=6999761221960394828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/share/18KGmY5H8N/",
+      "userRatingCount": 18,
+      "displayName": {
+        "text": "مطعم الأشيري محطة تسالة شمال",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJTRPWkUkAfw0RbBJ7d_0NHMI",
+      "nationalPhoneNumber": "0549 52 69 00",
+      "formattedAddress": "59Q8+P9H, Ave Mohamed Khamista, Sidi Bel Abbès 22000, Algeria",
+      "location": {
+        "latitude": 35.1893041,
+        "longitude": -0.6340186999999999
+      },
+      "rating": 3.6,
+      "googleMapsUri": "https://maps.google.com/?cid=13987069924988359276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 31,
+      "displayName": {
+        "text": "Restaurant le grand Prado",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJY2-GJQBbfg0R3DLtv9iNG-Q",
+      "nationalPhoneNumber": "0561 20 47 04",
+      "formattedAddress": "CGMV+78W, Makedra, Algeria",
+      "location": {
+        "latitude": 35.4331971,
+        "longitude": -0.4567021
+      },
+      "rating": 1.5,
+      "googleMapsUri": "https://maps.google.com/?cid=16436887227091202780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Café restaurant el Achiri",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJT2ZGNwoBfw0R9Es7S5BXRek",
+      "formattedAddress": "59QG+98F، شارع أحمد زبانة، Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.188420799999996,
+        "longitude": -0.624254
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=16808937461479328756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 10,
+      "displayName": {
+        "text": "معايزة",
+        "languageCode": "en"
+      }
+    }
+  ]
+}

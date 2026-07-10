@@ -1,0 +1,334 @@
+{
+  "places": [
+    {
+      "id": "ChIJxdHgDQCJfg0RxNscTm-fVKo",
+      "nationalPhoneNumber": "0542 55 21 88",
+      "formattedAddress": "Rue Boudjellal Ahmed, Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.7052538,
+        "longitude": -0.6346598999999999
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=12273610184892144580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://7-heavens.netlify.app/",
+      "userRatingCount": 276,
+      "displayName": {
+        "text": "7heavens bistrot",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJlyv1YlGJfg0Rf7XyP-0Canc",
+      "nationalPhoneNumber": "0661 23 37 41",
+      "formattedAddress": "Oran, Algeria",
+      "location": {
+        "latitude": 35.705207699999995,
+        "longitude": -0.6298068
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=8604693256048129407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 229,
+      "displayName": {
+        "text": "BEZZOU Restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJJYGSgiCJfg0RBPUq7PB9w_A",
+      "nationalPhoneNumber": "0550 24 31 24",
+      "formattedAddress": "local n 2, 35 Av. d'Arcole, Oran, Algeria",
+      "location": {
+        "latitude": 35.7075478,
+        "longitude": -0.6160508
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=17348848663269143812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 823,
+      "displayName": {
+        "text": "Restaurant PRALIN Illusion",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJccAdwhqJfg0RWN9qh8LZHJQ",
+      "nationalPhoneNumber": "0558 51 51 31",
+      "formattedAddress": "64 Rue des Frères Dahli, Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.7090089,
+        "longitude": -0.6568163
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=10672644646480043864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sites.google.com/view/etoile-de-mer-oran/accueil",
+      "userRatingCount": 101,
+      "displayName": {
+        "text": "Restaurant l'étoile de mer",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJd_5tIgCJfg0RNjnOGZ7d3b0",
+      "nationalPhoneNumber": "0540 63 94 58",
+      "formattedAddress": "36 coopérative El mounkhe météo, Oran, Algeria",
+      "location": {
+        "latitude": 35.701195,
+        "longitude": -0.6044764
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=13681334914128951606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 23,
+      "displayName": {
+        "text": "Bistrot",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJP1coRgB9fg0RnNpCyIerGuY",
+      "nationalPhoneNumber": "0770 61 64 52",
+      "formattedAddress": "Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.7453737,
+        "longitude": -0.5719626
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=16580753577786661532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/maisonlesept?igsh=MWxsZng2OHpzNjN1Yw==",
+      "userRatingCount": 425,
+      "displayName": {
+        "text": "Maison Le Sept",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJvZsNFqeJfg0R1h6XowC8EEc",
+      "nationalPhoneNumber": "041 33 59 96",
+      "formattedAddress": "01 rue de la remonte, Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.7051245,
+        "longitude": -0.6414856
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=5120799487250865878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://restaurantlabodega.lovable.app/",
+      "userRatingCount": 28,
+      "displayName": {
+        "text": "Restaurant La Bodega",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJG2NQ-cCJfg0R5d42KKinIM8",
+      "nationalPhoneNumber": "0797 23 76 63",
+      "formattedAddress": "14 rue bendoukha sadek, Oran, Algeria",
+      "location": {
+        "latitude": 35.7025046,
+        "longitude": -0.638185
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=14925113505776852709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/villaggio.algeria/",
+      "userRatingCount": 99,
+      "displayName": {
+        "text": "Villaggio",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJK6MitxmJfg0R3DC2J5e4m54",
+      "nationalPhoneNumber": "041 59 00 22",
+      "formattedAddress": "Route des Falaises, Av. Djellat Habib, Oran 31025, Algeria",
+      "location": {
+        "latitude": 35.7154709,
+        "longitude": -0.6093820999999999
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=11428931438728589532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.all.com/",
+      "userRatingCount": 23,
+      "displayName": {
+        "text": "Restaurant Le Canastel",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJB-tCJ1SIfg0RBTUhz86z0XE",
+      "formattedAddress": "P927+8F9, Oran, Algeria",
+      "location": {
+        "latitude": 35.7007852,
+        "longitude": -0.6362620999999999
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=8201534097238078725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 30,
+      "displayName": {
+        "text": "Restaurant Aziz Tounsi",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ_YiRSFSJfg0RqS66S-JuWQs",
+      "nationalPhoneNumber": "0771 91 73 63",
+      "formattedAddress": "15 Rue Ho Chi Minh, Oran, Algeria",
+      "location": {
+        "latitude": 35.7030066,
+        "longitude": -0.6387845
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=817806725556612777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/LeRoyaumeducouscous/",
+      "userRatingCount": 277,
+      "displayName": {
+        "text": "Le royaume du couscous",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJsWkXrvuIfg0RuXZ9WPf8mUo",
+      "formattedAddress": "06 Rue de la Paix, Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.702779299999996,
+        "longitude": -0.6461352
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=5375605769515136697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://app.restolink.net/m/lemarquis",
+      "userRatingCount": 153,
+      "displayName": {
+        "text": "Restaurant Le Marquis",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJZXq_TFWJfg0Rm4lNaGMHSHU",
+      "nationalPhoneNumber": "0554 01 69 57",
+      "formattedAddress": "Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.706195699999995,
+        "longitude": -0.6102983
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=8451012824293804443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 151,
+      "displayName": {
+        "text": "The Tower - Restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJk8mGTTuIfg0RWzjMQcm6qOA",
+      "nationalPhoneNumber": "0660 66 72 72",
+      "formattedAddress": "pont de jour، Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.7090916,
+        "longitude": -0.5963639
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=16188394234138343515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1159,
+      "displayName": {
+        "text": "Bollywood Restaurant Indien",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ1ZWQuzyIfg0Rhg6hOrgO5eM",
+      "nationalPhoneNumber": "0550 49 55 62",
+      "formattedAddress": "02 Cite Courbet، وهران 31000, Algeria",
+      "location": {
+        "latitude": 35.7127392,
+        "longitude": -0.6117602999999999
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=16421547800696786566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://maharajadz.com/",
+      "userRatingCount": 546,
+      "displayName": {
+        "text": "Maharaja Indian Restaurant, Courbet,Oran",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJKyNyRfqIfg0R8RFs3Xh4yIc",
+      "nationalPhoneNumber": "040 49 83 36",
+      "formattedAddress": "14 Bd de la Soummam, Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.7041708,
+        "longitude": -0.6458163
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=9784202650968658417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 276,
+      "displayName": {
+        "text": "Le Cintra",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJhw8JiYtjfg0REnXmN3jfgrY",
+      "nationalPhoneNumber": "0540 11 00 24",
+      "formattedAddress": "PCC5+XJQ, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.7221043,
+        "longitude": -0.5910811
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=13151319569302189330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.houseofburgersdz.com/",
+      "userRatingCount": 420,
+      "displayName": {
+        "text": "House of Burgers Oran",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJhepImlSJfg0Rz_0fwc8DYqQ",
+      "nationalPhoneNumber": "0782 02 97 09",
+      "formattedAddress": "P937+QHC, Oran, Algeria",
+      "location": {
+        "latitude": 35.7044256,
+        "longitude": -0.6361199
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=11845034160771038671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/profile.php?id=100075753745597",
+      "userRatingCount": 22,
+      "displayName": {
+        "text": "Le Resto",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJFd7v6lKIfg0RKStEucqi9yo",
+      "nationalPhoneNumber": "0770 59 43 52",
+      "formattedAddress": "Rue Bouhaous Mohamed, Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.6968487,
+        "longitude": -0.6313554
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=3096122260415851305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sites.google.com/view/restaurantelidaa/accueil",
+      "userRatingCount": 204,
+      "displayName": {
+        "text": "RESTAURANT idaa",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJY2msQO-Ifg0R9cTXooIzgHg",
+      "nationalPhoneNumber": "041 15 13 09",
+      "formattedAddress": "P84W+XWX, Rue John F Kennedy, Oran, Algeria",
+      "location": {
+        "latitude": 35.707495099999996,
+        "longitude": -0.6526531
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=8682996717741130997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 91,
+      "displayName": {
+        "text": "Restaurant La Marina",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

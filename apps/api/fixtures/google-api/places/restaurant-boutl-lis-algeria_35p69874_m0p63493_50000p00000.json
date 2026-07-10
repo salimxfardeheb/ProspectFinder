@@ -1,0 +1,317 @@
+{
+  "places": [
+    {
+      "id": "ChIJxfKGbwCVfg0RgzOu0P9C_zs",
+      "nationalPhoneNumber": "0670 74 46 26",
+      "formattedAddress": "Rue Mohamed khemisti, Boutlélis, Algeria",
+      "location": {
+        "latitude": 35.5723663,
+        "longitude": -0.9002992000000001
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=4323247833784136579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Pizzeria simou boutlelis",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJYbUFFgB9fg0RT3JF1K2DCU0",
+      "formattedAddress": "Boutlélis 31089, Algeria",
+      "location": {
+        "latitude": 35.5879717,
+        "longitude": -0.8104762999999999
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=5551112798324748879&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 11,
+      "displayName": {
+        "text": "Chalabi food",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJJdD8MA-Jfg0RBJLBCzT-odY",
+      "nationalPhoneNumber": "0770 18 99 10",
+      "formattedAddress": "19 Rue Larbi Bentayeb, TEBASSI 03510, Algeria",
+      "location": {
+        "latitude": 35.705385,
+        "longitude": -0.638355
+      },
+      "rating": 3.4,
+      "googleMapsUri": "https://maps.google.com/?cid=15465922094855983620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 208,
+      "displayName": {
+        "text": "Restaurant les jumelles",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJjd4sI5yJfg0REidKPOm_Z-s",
+      "nationalPhoneNumber": "0551 75 70 74",
+      "formattedAddress": "Rue Med Khemisti, Oran, Algeria",
+      "location": {
+        "latitude": 35.703710099999995,
+        "longitude": -0.6406235
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=16962737529974040338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 89,
+      "displayName": {
+        "text": "Pili Pili tunisien",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJF_uyFgCRfg0RmKiwAYkgCkM",
+      "formattedAddress": "31000, Aïn El Turk 31000, Algeria",
+      "location": {
+        "latitude": 35.738087199999995,
+        "longitude": -0.7541802
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=4830709323119241368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Restaurant burrata",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJK6MitxmJfg0R3DC2J5e4m54",
+      "nationalPhoneNumber": "041 59 00 22",
+      "formattedAddress": "Route des Falaises, Av. Djellat Habib, Oran 31025, Algeria",
+      "location": {
+        "latitude": 35.7154709,
+        "longitude": -0.6093820999999999
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=11428931438728589532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.all.com/",
+      "userRatingCount": 23,
+      "displayName": {
+        "text": "Restaurant Le Canastel",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJX43TVACRfg0RHaFy3wjOoHA",
+      "formattedAddress": "P6QW+6CG, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.7380506,
+        "longitude": -0.7539144999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=8115713066025525533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Alma",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJuzi6dxCXfg0RHb_HTEz8-04",
+      "nationalPhoneNumber": "0797 00 68 52",
+      "formattedAddress": "Bousfer 31000, Algeria",
+      "location": {
+        "latitude": 35.730058199999995,
+        "longitude": -0.844793
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=5691419958748626717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 24,
+      "displayName": {
+        "text": "Restaurant Le Cabestan",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJbXKkdwCVfg0R2s9ycIIq6tk",
+      "formattedAddress": "H3GX+RJ3, W20, Boutlélis, Algeria",
+      "location": {
+        "latitude": 35.5770201,
+        "longitude": -0.9009195
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15702409790501343194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "The town",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJK4Z7aliVfg0RMyiwhaWFGNc",
+      "nationalPhoneNumber": "0781 32 64 17",
+      "formattedAddress": "6 20 août, Boutlélis, Algeria",
+      "location": {
+        "latitude": 35.5743359,
+        "longitude": -0.9000372999999999
+      },
+      "rating": 3.5,
+      "googleMapsUri": "https://maps.google.com/?cid=15499285063554574387&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Food time",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJsRWX7ZaVfg0RRukcOEAoEDw",
+      "nationalPhoneNumber": "0664 71 11 50",
+      "formattedAddress": "H3CX+XX5, W20, Boutlélis, Algeria",
+      "location": {
+        "latitude": 35.572378799999996,
+        "longitude": -0.9000265999999999
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=4328003498187483462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 5,
+      "displayName": {
+        "text": "مقهى",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJJeEucgBjfg0RXL1OusYGcY0",
+      "nationalPhoneNumber": "0552 15 22 40",
+      "formattedAddress": "MCW5+RM, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.6965058,
+        "longitude": -0.5938917
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=10191934882315156828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://traiteurlamaindor.com/restaurant",
+      "userRatingCount": 54,
+      "displayName": {
+        "text": "Le Reflet by La Main d’Or",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJz8TvdYy_fg0R2j_CwHWODfw",
+      "formattedAddress": "ROUTE DE MADAGH AIN KARMA AIN KARMA, J2XC+5V4 daira, Boutlelis 31059, Algeria",
+      "location": {
+        "latitude": 35.647889,
+        "longitude": -0.9777984999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=18162329508651352026&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Chez Jalloul",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJuTGKWgKJfg0Rr0mVEaPvQyc",
+      "nationalPhoneNumber": "0541 86 55 31",
+      "formattedAddress": "Boulvard Des Lions, Oran, Algeria",
+      "location": {
+        "latitude": 35.7123302,
+        "longitude": -0.5739377999999999
+      },
+      "rating": 3.1,
+      "googleMapsUri": "https://maps.google.com/?cid=2829368474572507567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 457,
+      "displayName": {
+        "text": "Restaurant Djabali",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJuT3ORQBjfg0R8uw8UIh-eoo",
+      "nationalPhoneNumber": "0563 05 27 37",
+      "formattedAddress": "31051, Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.7219207,
+        "longitude": -0.5955518
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=9978427048319577330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 117,
+      "displayName": {
+        "text": "Restaurant la lonja",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJG5Y1QwCRfg0RYd5iIWXjFKo",
+      "formattedAddress": "P6PW+V7X, Rue Elkebir Abdelkader, Aïn El Turk, Algeria",
+      "location": {
+        "latitude": 35.737227499999996,
+        "longitude": -0.7542791
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=12255670509473291873&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Restaurant Chalt rouge",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJk6r-Vw5jfg0Ramx3UnfvU38",
+      "nationalPhoneNumber": "0541 86 27 61",
+      "formattedAddress": "Palais dor, Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.730974800000006,
+        "longitude": -0.5849867
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=9174940161647537258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 19,
+      "displayName": {
+        "text": "Restaurant Anatolia",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJM8zwSQBjfg0RtwJHLvKtAaA",
+      "nationalPhoneNumber": "0560 62 04 51",
+      "formattedAddress": "Bir El Djir 31000, Algeria",
+      "location": {
+        "latitude": 35.7357198,
+        "longitude": -0.561295
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=11529687776715276983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.lemediterraneen-oran.com/",
+      "userRatingCount": 108,
+      "displayName": {
+        "text": "Le Méditerranéen",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJT3N6LM-Vfg0Rsm_J1S0Wmgo",
+      "formattedAddress": "Lotissement 101 lot n;74, Boutlélis, Algeria",
+      "location": {
+        "latitude": 35.5721899,
+        "longitude": -0.9043158
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=763947472908808114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Café Bein sport",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJA3KAsxmTfg0RL9hmywhKddY",
+      "formattedAddress": "H5QR+3F, Boutlélis, Algeria",
+      "location": {
+        "latitude": 35.5877177,
+        "longitude": -0.8088103999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=15453339098024433711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Cafe benbouha mohamed",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

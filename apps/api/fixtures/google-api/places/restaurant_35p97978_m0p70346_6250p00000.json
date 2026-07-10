@@ -1,0 +1,326 @@
+{
+  "places": [
+    {
+      "id": "ChIJ29bIEZCbfg0RE7epUwQVlFc",
+      "nationalPhoneNumber": "0674 58 87 55",
+      "formattedAddress": "P6VP+3QP, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.7429363,
+        "longitude": -0.7629943
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=6310692086180591379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 96,
+      "displayName": {
+        "text": "Restaurant hadja Saiida",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJN2B8VwCbfg0RkaAXHJBQl7U",
+      "nationalPhoneNumber": "0781 01 53 50",
+      "formattedAddress": "P6QW+R9V, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.7396698,
+        "longitude": -0.7540969000000001
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=13085015822225088657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/gusta_sandwicherie?igsh=MW0wbjFxcHR3b2twdg==",
+      "userRatingCount": 11,
+      "displayName": {
+        "text": "Restaurant Gusta",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJF_uyFgCRfg0RmKiwAYkgCkM",
+      "formattedAddress": "31000, Aïn El Turk 31000, Algeria",
+      "location": {
+        "latitude": 35.738087199999995,
+        "longitude": -0.7541802
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=4830709323119241368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Restaurant burrata",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ7dAoRwCPfg0ReOzLp_628nU",
+      "formattedAddress": "Trouville, Aïn El Turk, Algeria",
+      "location": {
+        "latitude": 35.7380804,
+        "longitude": -0.7377661
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=8499056651654655096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Bar restaurant le méditerranée",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJbb7JIZx8fg0R5x8AWbKZvcQ",
+      "nationalPhoneNumber": "0542 35 66 47",
+      "formattedAddress": "Ain Franine, Bir El Djir 31130, Algeria",
+      "location": {
+        "latitude": 35.7810888,
+        "longitude": -0.5101485
+      },
+      "rating": 3.2,
+      "googleMapsUri": "https://maps.google.com/?cid=14176656193308598247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lepetitchalet.co/",
+      "userRatingCount": 823,
+      "displayName": {
+        "text": "Restaurant Le Petit Chalet",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJl5-LE4Kbfg0RFNukJbdoXBg",
+      "nationalPhoneNumber": "0775 02 10 45",
+      "formattedAddress": "P6VM+J2P, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.7455765,
+        "longitude": -0.7688103
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=1755393090587515668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 87,
+      "displayName": {
+        "text": "Restaurant Le pêcheur (djamel paella)",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJGTFENgCbfg0R_A1PI59dq2c",
+      "formattedAddress": "Local bloc A, bvd de la république, Aïn El Turk, Algeria",
+      "location": {
+        "latitude": 35.7431872,
+        "longitude": -0.7728311
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7470167344997666300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant MOOD Mazaj (مزاج)",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJuTGKWgKJfg0Rr0mVEaPvQyc",
+      "nationalPhoneNumber": "0541 86 55 31",
+      "formattedAddress": "Boulvard Des Lions, Oran, Algeria",
+      "location": {
+        "latitude": 35.7123302,
+        "longitude": -0.5739377999999999
+      },
+      "rating": 3.1,
+      "googleMapsUri": "https://maps.google.com/?cid=2829368474572507567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 457,
+      "displayName": {
+        "text": "Restaurant Djabali",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJh8YnQKSafg0RhcrBM30AuOY",
+      "nationalPhoneNumber": "0771 21 93 44",
+      "formattedAddress": "P6WM+2GR, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.74511770000001,
+        "longitude": -0.7662367
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=16625038562177436293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 185,
+      "displayName": {
+        "text": "Restaurant Le Marin II",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJsWkXrvuIfg0RuXZ9WPf8mUo",
+      "formattedAddress": "06 Rue de la Paix, Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.702779299999996,
+        "longitude": -0.6461352
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=5375605769515136697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://app.restolink.net/m/lemarquis",
+      "userRatingCount": 153,
+      "displayName": {
+        "text": "Restaurant Le Marquis",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJmZ2DwYBjfg0RBJlG3SDbXaY",
+      "nationalPhoneNumber": "0553 89 62 75",
+      "formattedAddress": "03 W75, Oran, Algeria",
+      "location": {
+        "latitude": 35.731548599999996,
+        "longitude": -0.5846271
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=11987978717327956228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://cote-d-oran.com/",
+      "userRatingCount": 217,
+      "displayName": {
+        "text": "Restaurant Côte d'oran",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJrSVRDy59fg0RIYwpUOzLMcM",
+      "nationalPhoneNumber": "0770 76 36 80",
+      "formattedAddress": "Oran, Algeria",
+      "location": {
+        "latitude": 35.7452379,
+        "longitude": -0.5724438
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=14065247327072390177&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://m.facebook.com/SunSet-Canastel-108782706356842/",
+      "userRatingCount": 217,
+      "displayName": {
+        "text": "Sunset Canastel Restaurant / Coffree Shop",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJIUeGFABjfg0RiyD6TjZdRMQ",
+      "nationalPhoneNumber": "0557 82 63 90",
+      "formattedAddress": "PCC6+HQX, Oran, Algeria",
+      "location": {
+        "latitude": 35.721455,
+        "longitude": -0.5877176
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=14142531217684832395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 206,
+      "displayName": {
+        "text": "Autentica restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJn1OxV7Jjfg0RjstvGQ9TQvc",
+      "nationalPhoneNumber": "0660 45 83 31",
+      "formattedAddress": "PCF5+QW9، Unnamed Road، بئر الجير، Algeria",
+      "location": {
+        "latitude": 35.7244159,
+        "longitude": -0.5901482
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=17816894400147475342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/r.lacorniche/",
+      "userRatingCount": 87,
+      "displayName": {
+        "text": "Restaurant la corniche",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJa49BdQBjfg0R6rAMGZZn1dg",
+      "nationalPhoneNumber": "0770 22 24 24",
+      "formattedAddress": "PC86+MXM, Bd Millenium 2, Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.716712199999996,
+        "longitude": -0.5875922
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=15624508376594821354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 87,
+      "displayName": {
+        "text": "Lebanon Lebanese Restaurant & Cafe",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJgy7Sc3Obfg0RblfGe96px8E",
+      "nationalPhoneNumber": "0553 75 51 20",
+      "formattedAddress": "P6XG+G9X, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.748802700000006,
+        "longitude": -0.7740996
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=13963315942709942126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 153,
+      "displayName": {
+        "text": "Restaurant O'poisson",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJpeALYY1jfg0Rft9oxCD4jSM",
+      "nationalPhoneNumber": "0770 00 44 44",
+      "formattedAddress": "Oran 31093, Algeria",
+      "location": {
+        "latitude": 35.7261862,
+        "longitude": -0.5897186999999999
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=2561976582661529470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://maharajadz.com/",
+      "userRatingCount": 156,
+      "displayName": {
+        "text": "Maharaja Indian Restaurant ,ELAKID ,ORAN",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJAfOv9SaJfg0R2r_qFWddIyQ",
+      "nationalPhoneNumber": "0560 99 33 22",
+      "formattedAddress": "09 Bd Wahrani Boumediene, Oran, Algeria",
+      "location": {
+        "latitude": 35.711020999999995,
+        "longitude": -0.6113609
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=2604027706880999386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1349,
+      "displayName": {
+        "text": "Arabesque Restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJK6MitxmJfg0R3DC2J5e4m54",
+      "nationalPhoneNumber": "041 59 00 22",
+      "formattedAddress": "Route des Falaises, Av. Djellat Habib, Oran 31025, Algeria",
+      "location": {
+        "latitude": 35.7154709,
+        "longitude": -0.6093820999999999
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=11428931438728589532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.all.com/",
+      "userRatingCount": 23,
+      "displayName": {
+        "text": "Restaurant Le Canastel",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ4XibTzuIfg0RXfpfGLp2w4U",
+      "nationalPhoneNumber": "041 62 15 09",
+      "formattedAddress": "Rond point palais d’or, Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.7287233,
+        "longitude": -0.5865315999999999
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=9638678169147931229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 765,
+      "displayName": {
+        "text": "Bekhchi Restaurant",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

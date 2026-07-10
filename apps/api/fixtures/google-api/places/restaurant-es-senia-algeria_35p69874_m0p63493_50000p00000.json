@@ -1,0 +1,317 @@
+{
+  "places": [
+    {
+      "id": "ChIJEYyo_IiJfg0R0XokDnuJVvA",
+      "nationalPhoneNumber": "0661 31 93 69",
+      "formattedAddress": "13 Coopérative Azzouz Abdelkader, Es Sénia, Algeria",
+      "location": {
+        "latitude": 35.6550419,
+        "longitude": -0.6277849999999999
+      },
+      "rating": 3.6,
+      "googleMapsUri": "https://maps.google.com/?cid=17318180578711075537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 120,
+      "displayName": {
+        "text": "Restaurant king II",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ04YhNACLfg0R_XikanQ_D8I",
+      "formattedAddress": "M92G+G5V, Unnamed Road, Es Sénia, Algeria",
+      "location": {
+        "latitude": 35.6513497,
+        "longitude": -0.6246375
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=13983465137246599421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 7,
+      "displayName": {
+        "text": "MAMA",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJB-IjUBljfg0Rn2MQtXJkNt4",
+      "nationalPhoneNumber": "0552 23 49 69",
+      "formattedAddress": "Es senia 200, Oran 31000, Algeria",
+      "location": {
+        "latitude": 35.6507577,
+        "longitude": -0.6506805
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=16012095968989176735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 46,
+      "displayName": {
+        "text": "Restaurant Machaoui Belkaid( ex le Palais)",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJhd5T4udhfg0RdZV6Z-PLgUM",
+      "nationalPhoneNumber": "0792 51 71 04",
+      "formattedAddress": "Sidi Chami, Algeria",
+      "location": {
+        "latitude": 35.6380269,
+        "longitude": -0.5903290999999999
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=4864393250090947957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/CentreCommercialetdeLoisirsEsSenia/?locale=fr_FR",
+      "userRatingCount": 2935,
+      "displayName": {
+        "text": "CENTRE COMMERCIAL ET LOISIRS ESSENIA",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJZTa6HQBjfg0ROS5zCHz9jdA",
+      "nationalPhoneNumber": "0560 17 62 20",
+      "formattedAddress": "Bir El Djir, Algeria",
+      "location": {
+        "latitude": 35.7164733,
+        "longitude": -0.5745964
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=15027946240764751417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/restaurantscenariooran",
+      "userRatingCount": 277,
+      "displayName": {
+        "text": "Restaurant Scenario ibra",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJg-l-UgCJfg0R-tZ486PAwKM",
+      "formattedAddress": "M9X8+F2W, Oran, Algeria",
+      "location": {
+        "latitude": 35.6987388,
+        "longitude": -0.6349319
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11799642834107684602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant Mon plaisir",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJyXefzj5hfg0REoZNMJz-XVI",
+      "nationalPhoneNumber": "0658 15 78 27",
+      "formattedAddress": "Es-Senia, Shopping & Leisure Center, Sidi Chami 31000, Algeria",
+      "location": {
+        "latitude": 35.638255699999995,
+        "longitude": -0.5906156
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=5935179830722922002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 9,
+      "displayName": {
+        "text": "LIWAN - Restaurant & Snack",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJR3qPzgljfg0RORJcMMFYPwU",
+      "formattedAddress": "Flight tkt 494, Oran, Algeria",
+      "location": {
+        "latitude": 35.6988026,
+        "longitude": -0.6348482999999999
+      },
+      "rating": 3.5,
+      "googleMapsUri": "https://maps.google.com/?cid=378118480485683769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/bosphoreistanbuloran?igsh=Y2drNGx2cTM1NTU2&utm_source=qr",
+      "userRatingCount": 30,
+      "displayName": {
+        "text": "Bosphore Istanbul oran",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJP4aqQy6Lfg0RXTpMspIQUzc",
+      "formattedAddress": "J9XG+4GJ, Es Senia, Algeria",
+      "location": {
+        "latitude": 35.6478287,
+        "longitude": -0.6237318
+      },
+      "rating": 3.4,
+      "googleMapsUri": "https://maps.google.com/?cid=3986548317395630685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 16,
+      "displayName": {
+        "text": "Chicken night",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJVXuG4G6Lfg0Rb-ai-02OtCs",
+      "nationalPhoneNumber": "0783 90 08 80",
+      "formattedAddress": "J9XP+FHH, W33, Es Sénia, Algeria",
+      "location": {
+        "latitude": 35.648680399999996,
+        "longitude": -0.6135136999999999
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=3149298505024202351&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 30,
+      "displayName": {
+        "text": "PIZZA LA MAMIA ES SENIA",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJFUq4RtSLfg0RJLXV_ibuBc8",
+      "formattedAddress": "J9CV+58C, Es Senia, Algeria",
+      "location": {
+        "latitude": 35.6204318,
+        "longitude": -0.6067452
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=14917591191986222372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Pizzeria Escale",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJG2NQ-cCJfg0R5d42KKinIM8",
+      "nationalPhoneNumber": "0797 23 76 63",
+      "formattedAddress": "14 rue bendoukha sadek, Oran, Algeria",
+      "location": {
+        "latitude": 35.7025046,
+        "longitude": -0.638185
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=14925113505776852709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/villaggio.algeria/",
+      "userRatingCount": 99,
+      "displayName": {
+        "text": "Villaggio",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJB-tCJ1SIfg0RBTUhz86z0XE",
+      "formattedAddress": "P927+8F9, Oran, Algeria",
+      "location": {
+        "latitude": 35.7007852,
+        "longitude": -0.6362620999999999
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=8201534097238078725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 30,
+      "displayName": {
+        "text": "Restaurant Aziz Tounsi",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ9RVptnCLfg0ROGsjFXoIp-I",
+      "formattedAddress": "M92P+HMR, Es Senia, Algeria",
+      "location": {
+        "latitude": 35.651488799999996,
+        "longitude": -0.6133504
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=16332031894116068152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "RESTAURANT MELILIA SENIA",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJJ69G3EuLfg0RCm_JxyLxzOc",
+      "formattedAddress": "J9XG+55H, N2A, Es Senia, Algeria",
+      "location": {
+        "latitude": 35.6480023,
+        "longitude": -0.6245514999999999
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=16702990249693376266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 9,
+      "displayName": {
+        "text": "19مشاوي السطايفي",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJV_TZdkCJfg0RUqwJkidDNPY",
+      "nationalPhoneNumber": "0552 94 36 05",
+      "formattedAddress": "cité 52 villa n26 cnep, Es Sénia, Algeria",
+      "location": {
+        "latitude": 35.662023,
+        "longitude": -0.633235
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=17740878669352119378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 218,
+      "displayName": {
+        "text": "Food Lover",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJAcxX6lKIfg0RFwqq4GiCxXE",
+      "nationalPhoneNumber": "0559 92 60 95",
+      "formattedAddress": "Oran, Algeria",
+      "location": {
+        "latitude": 35.6970998,
+        "longitude": -0.6313963
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=8198102083655305751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 357,
+      "displayName": {
+        "text": "مطعم الباي",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJL7KExi6Jfg0Rk4k-bNivNgQ",
+      "nationalPhoneNumber": "0658 43 70 22",
+      "formattedAddress": "M922+JRX, Unnamed Road, Es Sénia, Algeria",
+      "location": {
+        "latitude": 35.6516084,
+        "longitude": -0.6478733
+      },
+      "rating": 3.5,
+      "googleMapsUri": "https://maps.google.com/?cid=303623368957921683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 16,
+      "displayName": {
+        "text": "Pizza amigos officiel",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJCfdWf-2Lfg0RwKCxl4zukzI",
+      "formattedAddress": "J9X2+R3H, Unnamed Road, Es Sénia, Algeria",
+      "location": {
+        "latitude": 35.6495557,
+        "longitude": -0.6497803999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=3644518811080696000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Pizzeria",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJX5h6rCCKfg0RfFTAR_0ue6A",
+      "nationalPhoneNumber": "0771 04 91 76",
+      "formattedAddress": "M92G+G2P, N2A, Es Senia, Algeria",
+      "location": {
+        "latitude": 35.6513257,
+        "longitude": -0.6249192
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=11563888133569270908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 13,
+      "displayName": {
+        "text": "pizzeria chez أكرم",
+        "languageCode": "ar"
+      }
+    }
+  ]
+}

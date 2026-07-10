@@ -1,0 +1,328 @@
+{
+  "places": [
+    {
+      "id": "ChIJX3kxgqQBghIRphLXEusGwFk",
+      "nationalPhoneNumber": "0549 09 41 84",
+      "formattedAddress": "W384+9R8, Mostaganem, Algeria",
+      "location": {
+        "latitude": 35.915837599999996,
+        "longitude": 0.057012999999999994
+      },
+      "rating": 3.5,
+      "googleMapsUri": "https://maps.google.com/?cid=6467176671607198374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/le.grill.mostaganem/",
+      "userRatingCount": 293,
+      "displayName": {
+        "text": "Le Grill",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJb_jGT1kDghIRp1KAM5J9SAY",
+      "nationalPhoneNumber": "045 41 68 53",
+      "formattedAddress": "21 Av. Khemisti Mohamed, Mostaganem 27000, Algeria",
+      "location": {
+        "latitude": 35.9293057,
+        "longitude": 0.0890323
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=452749829433479847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://instagram.com/pampam_mosta?igshid=YmM0MjE2YWMzOA==",
+      "userRatingCount": 289,
+      "displayName": {
+        "text": "Pam Pam restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJD7oZewADghIRv2ZTywxR6Ws",
+      "nationalPhoneNumber": "0771 81 96 40",
+      "formattedAddress": "Mostaganem, Algeria",
+      "location": {
+        "latitude": 35.9517125,
+        "longitude": 0.0913594
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=7775835347024570047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://babord-dz.com/",
+      "userRatingCount": 72,
+      "displayName": {
+        "text": "Babord Dz ( Restaurant & Salon de thé )",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJqfI__ix1fg0RsylBuaT9p2A",
+      "nationalPhoneNumber": "0795 07 63 65",
+      "formattedAddress": "80,fontaine des gazelles، Arzew, Algeria",
+      "location": {
+        "latitude": 35.8795011,
+        "longitude": -0.30206089999999997
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=6964814232676280755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 308,
+      "displayName": {
+        "text": "Les Gazelles",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ-9FAxSkLfg0RQtXPeL9jbvQ",
+      "nationalPhoneNumber": "0674 99 84 59",
+      "formattedAddress": "VPC5+M2M, Rte du Cap Carbon, Arzew, Algeria",
+      "location": {
+        "latitude": 35.871712699999996,
+        "longitude": -0.2924635
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=17613124866709378370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 38,
+      "displayName": {
+        "text": "Restaurant Le Phare",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJPdlOo6__gRIRI-AIby2H64Y",
+      "nationalPhoneNumber": "0661 44 22 46",
+      "formattedAddress": "V2MW+RGP, Mazagran, Algeria",
+      "location": {
+        "latitude": 35.8845986,
+        "longitude": 0.046328799999999996
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=9722012849815478307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://almansourpalacehotel.com/",
+      "userRatingCount": 9,
+      "displayName": {
+        "text": "Restaurant Panoramique Tournant Al Mansour Palace",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJDZ4YCML_gRIRfvPCVPEOlxw",
+      "nationalPhoneNumber": "0776 46 87 98",
+      "formattedAddress": "Mostaganem, Algeria",
+      "location": {
+        "latitude": 35.9148305,
+        "longitude": 0.0583398
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=2060131784217260926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 266,
+      "displayName": {
+        "text": "Touta Food",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJbb7JIZx8fg0R5x8AWbKZvcQ",
+      "nationalPhoneNumber": "0542 35 66 47",
+      "formattedAddress": "Ain Franine, Bir El Djir 31130, Algeria",
+      "location": {
+        "latitude": 35.7810888,
+        "longitude": -0.5101485
+      },
+      "rating": 3.2,
+      "googleMapsUri": "https://maps.google.com/?cid=14176656193308598247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lepetitchalet.co/",
+      "userRatingCount": 823,
+      "displayName": {
+        "text": "Restaurant Le Petit Chalet",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ7Z047m__gRIRxjplOECwabs",
+      "nationalPhoneNumber": "0771 15 75 51",
+      "formattedAddress": "Bloc N، a4 cité El firdaous، مستغانم 27000, Algeria",
+      "location": {
+        "latitude": 35.9145371,
+        "longitude": 0.0564914
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=13504518747517696710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 570,
+      "displayName": {
+        "text": "Bekhchis Restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJNbIzb_wBghIRZe8f-u2DRUw",
+      "formattedAddress": "Mostaganem, Algeria",
+      "location": {
+        "latitude": 35.9195681,
+        "longitude": 0.06985849999999999
+      },
+      "rating": 3,
+      "googleMapsUri": "https://maps.google.com/?cid=5495943978402443109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://restore.wuaze.com/",
+      "userRatingCount": 230,
+      "displayName": {
+        "text": "RESTAURANT & GRILLADES / chelfi",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJya5iszsBghIReLVZ3PFnhII",
+      "formattedAddress": "W396+G5M, Mostaganem, Algeria",
+      "location": {
+        "latitude": 35.918849099999996,
+        "longitude": 0.0604255
+      },
+      "rating": 3.6,
+      "googleMapsUri": "https://maps.google.com/?cid=9404756210338084216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 19,
+      "displayName": {
+        "text": "Restaurants",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJjcqyR9n_gRIRJDvFxN-f-Vc",
+      "formattedAddress": "V2RW+3P6, Mazagran, Algeria",
+      "location": {
+        "latitude": 35.890161,
+        "longitude": 0.046771
+      },
+      "rating": 2.5,
+      "googleMapsUri": "https://maps.google.com/?cid=6339273733928467236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 22,
+      "displayName": {
+        "text": "Woodland Restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJf5JVvZMPfg0Rt5r0guYRp5Q",
+      "nationalPhoneNumber": "041 76 61 61",
+      "formattedAddress": "QRRQ+9XJ, Mers El Hadjadj 31013, Algeria",
+      "location": {
+        "latitude": 35.7909435,
+        "longitude": -0.1600725
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=10711549920461232823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "La Table d'Oran Restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ9ToQbwICghIRl7W9Zce1DTw",
+      "nationalPhoneNumber": "0778 30 77 55",
+      "formattedAddress": "W3FG+25G, Mostaganem, Algeria",
+      "location": {
+        "latitude": 35.922554000000005,
+        "longitude": 0.075446
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=4327314684982965655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 66,
+      "displayName": {
+        "text": "Bab El Marsa chez Rachid",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJlfezEr33gRIRREvZ8tCxZlk",
+      "nationalPhoneNumber": "0775 19 45 92",
+      "formattedAddress": "Mesra 27018, Algeria",
+      "location": {
+        "latitude": 35.83850520000001,
+        "longitude": 0.1675294
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=6442031827985713988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 13,
+      "displayName": {
+        "text": "Joker restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJtbKoAvwBghIRI-LNxfK7E7g",
+      "nationalPhoneNumber": "0557 09 97 90",
+      "formattedAddress": "W3CC+328, Mostaganem, Algeria",
+      "location": {
+        "latitude": 35.9201694,
+        "longitude": 0.07006749999999999
+      },
+      "rating": 3.1,
+      "googleMapsUri": "https://maps.google.com/?cid=13264151978911326755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 62,
+      "displayName": {
+        "text": "Restaurant 'GRILLADE' BAHAR",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ4W4lHNABghIR3Osp3M0EYkg",
+      "nationalPhoneNumber": "0671 36 84 48",
+      "formattedAddress": "Promotion semi collectif, zone urbaine, Mostaganem 27000, Algeria",
+      "location": {
+        "latitude": 35.920557099999996,
+        "longitude": 0.0713265
+      },
+      "rating": 3.4,
+      "googleMapsUri": "https://maps.google.com/?cid=5215736600656997340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 183,
+      "displayName": {
+        "text": "Perfecto Eat",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJrWzrFAB1fg0RlRh4cOaK1Ls",
+      "nationalPhoneNumber": "0791 75 56 14",
+      "formattedAddress": "RMWJ+XQ7, Arzew, Algeria",
+      "location": {
+        "latitude": 35.8474017,
+        "longitude": -0.3180936
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=13534595502489213077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Restaurant Djijli - مطعم الجيجلي",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJn1OxV7Jjfg0RjstvGQ9TQvc",
+      "nationalPhoneNumber": "0660 45 83 31",
+      "formattedAddress": "PCF5+QW9، Unnamed Road، بئر الجير، Algeria",
+      "location": {
+        "latitude": 35.7244159,
+        "longitude": -0.5901482
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=17816894400147475342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/r.lacorniche/",
+      "userRatingCount": 87,
+      "displayName": {
+        "text": "Restaurant la corniche",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJ8b9i0sIBghIR3phMFCExz58",
+      "nationalPhoneNumber": "0556 63 27 76",
+      "formattedAddress": "W395+2GP, Mostaganem, Algeria",
+      "location": {
+        "latitude": 35.9175951,
+        "longitude": 0.058843299999999994
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=11515476790353893598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 75,
+      "displayName": {
+        "text": "Restaurant Byzed",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

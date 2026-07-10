@@ -41,6 +41,9 @@ describe("SearchEngineService", () => {
       expect(geocodingService.geocode).toHaveBeenCalledWith(dto);
       expect(searchStrategy.search).toHaveBeenCalledWith({
         keyword,
+        city: "Oran",
+        state: undefined,
+        country: "Algeria",
         latitude: oranCoordinates.latitude,
         longitude: oranCoordinates.longitude,
         radius: expect.any(Number),

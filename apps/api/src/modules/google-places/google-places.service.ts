@@ -11,6 +11,8 @@ import { ConfigService } from "@nestjs/config";
 import { isAxiosError } from "axios";
 import { firstValueFrom } from "rxjs";
 
+import { ApiCacheService } from "../../common/api-cache.service";
+import { formatCoord, slugify } from "../../common/slug";
 import { SearchPlacesDto } from "./dto/search-places.dto";
 import {
   GOOGLE_PLACES_API_KEY_ENV,
@@ -24,6 +26,8 @@ import {
   GooglePlacesSearchResponse,
 } from "./interfaces/google-place.interface";
 
+const CACHE_NAMESPACE = "places";
+
 @Injectable()
 export class GooglePlacesService {
   private readonly logger = new Logger(GooglePlacesService.name);
@@ -31,9 +35,17 @@ export class GooglePlacesService {
   constructor(
     private readonly httpService: HttpService,
     private readonly configService: ConfigService,
+    private readonly apiCache: ApiCacheService,
   ) {}
 
   async searchText(dto: SearchPlacesDto): Promise<GooglePlacesSearchResponse> {
+    const cacheKey = this.toCacheKey(dto);
+    const cached = this.apiCache.read<GooglePlacesSearchResponse>(CACHE_NAMESPACE, cacheKey);
+    if (cached) {
+      this.logger.log(`searchText cache hit for ${cacheKey}`);
+      return cached;
+    }
+
     const apiKey = this.configService.get<string>(GOOGLE_PLACES_API_KEY_ENV);
     if (!apiKey) {
       this.logger.error(`${GOOGLE_PLACES_API_KEY_ENV} is not set`);
@@ -60,10 +72,20 @@ export class GooglePlacesService {
 
       const count = response.data.places?.length ?? 0;
       this.logger.log(`searchText returned ${count} place(s) in ${Date.now() - startedAt}ms`);
+      this.apiCache.write(CACHE_NAMESPACE, cacheKey, response.data);
       return response.data;
     } catch (error) {
       throw this.toHttpException(error);
     }
+  }
+
+  private toCacheKey(dto: SearchPlacesDto): string {
+    return [
+      slugify(dto.keyword),
+      formatCoord(dto.latitude),
+      formatCoord(dto.longitude),
+      formatCoord(dto.radius),
+    ].join("_");
   }
 
   private toGoogleRequest(dto: SearchPlacesDto): GooglePlacesSearchRequest {

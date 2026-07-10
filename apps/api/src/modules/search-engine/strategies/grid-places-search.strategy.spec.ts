@@ -34,6 +34,8 @@ describe("GridPlacesSearchStrategy", () => {
 
     const result = await strategy.search({
       keyword: "Restaurant",
+      city: "Oran",
+      country: "Algeria",
       latitude: 35.6969,
       longitude: -0.6331,
       radius: 50_000,

@@ -1,0 +1,300 @@
+{
+  "places": [
+    {
+      "id": "ChIJE_khEQA9fg0RXrz7pTHSbb8",
+      "formattedAddress": "26 Rue Nekkab Miloud, Sig 29300, Algeria",
+      "location": {
+        "latitude": 35.5297444,
+        "longitude": -0.19535529999999998
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=13793912344385666142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 33,
+      "displayName": {
+        "text": "Benkada Food, Dessert and Drinks",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJSWvwPwBDfg0RledS_5OpLnI",
+      "formattedAddress": "HH22+VFW, Oued Tlelat, Algeria",
+      "location": {
+        "latitude": 35.552234899999995,
+        "longitude": -0.4487997
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=8227700022361384853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Restaurant Numedia",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJf5JVvZMPfg0Rt5r0guYRp5Q",
+      "nationalPhoneNumber": "041 76 61 61",
+      "formattedAddress": "QRRQ+9XJ, Mers El Hadjadj 31013, Algeria",
+      "location": {
+        "latitude": 35.7909435,
+        "longitude": -0.1600725
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=10711549920461232823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "La Table d'Oran Restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ4wMYPwA9fg0RzcQ6EgrUQY4",
+      "formattedAddress": "GRH4+FMV, Sig, Algeria",
+      "location": {
+        "latitude": 35.5288312,
+        "longitude": -0.19316429999999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10250707366592562381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "My Restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJt8a_QEo9fg0R4vZKcV0HZJM",
+      "nationalPhoneNumber": "0554 14 84 46",
+      "formattedAddress": "GRJ6+964, Rue Abdallah Mostapha, Sig 29300, Algeria",
+      "location": {
+        "latitude": 35.5308847,
+        "longitude": -0.1894092
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=10620621919160563426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "MBM RESTAURANT",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ02kiQwBnfg0RdrHUGraOGVU",
+      "nationalPhoneNumber": "0793 32 51 06",
+      "formattedAddress": "JFHH+C5G, El Braya, Algeria",
+      "location": {
+        "latitude": 35.6285508,
+        "longitude": -0.5220378999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6132089280426979702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Restaurant kfz mba",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJZzpxMAA9fg0R3hphs_3HBIw",
+      "formattedAddress": "GRF6+VH2, Sig, Algeria",
+      "location": {
+        "latitude": 35.524671399999995,
+        "longitude": -0.1885405
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=10089408957666892510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "رودينة تشيكن",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJUTTYGgBHfg0Rp79Gu7yEwLE",
+      "formattedAddress": "CMGP+XGQ محمد، القعدة، Algeria",
+      "location": {
+        "latitude": 35.4274702,
+        "longitude": -0.313625
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12808383286372384679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "محمد القاضي",
+        "languageCode": "ar"
+      }
+    },
+    {
+      "id": "ChIJicA7qfpDfg0REr6K9uc35Jo",
+      "formattedAddress": "GH8Q+M8J, N13, Zahana, Algeria",
+      "location": {
+        "latitude": 35.516707,
+        "longitude": -0.41173050000000005
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=11161107245944192530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "restaurant adel plus",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJMWPgaAA9fg0RqU7QTfoo-Uo",
+      "nationalPhoneNumber": "0555 63 47 21",
+      "formattedAddress": "GRJ6+86H, Sig, Algeria",
+      "location": {
+        "latitude": 35.530287699999995,
+        "longitude": -0.19047550000000002
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=5402394283520052905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/share/1BUwaYjm9T/?mibextid=wwXIfr",
+      "userRatingCount": 6,
+      "displayName": {
+        "text": "Chick-N-Joy",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJeRRRvQspfg0RSMvVKZUIevw",
+      "formattedAddress": "8W8X+7RJ, N17, Bou Hanifia, Algeria",
+      "location": {
+        "latitude": 35.3157194,
+        "longitude": -0.0504742
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=18192863081461566280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJbXhg_K89fg0RJBOcRei_0_c",
+      "formattedAddress": "GRJ3+VHJ, Blv de l'Emir Abdelkader, Sig, Algeria",
+      "location": {
+        "latitude": 35.5322172,
+        "longitude": -0.19610039999999998
+      },
+      "rating": 3.3,
+      "googleMapsUri": "https://maps.google.com/?cid=17857827951775322916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 6,
+      "displayName": {
+        "text": "Restaurant Santiri",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJoa3AUAA7fg0RLGDVnEVqUWU",
+      "formattedAddress": "CRG5+4X4, Chorfa, Algeria",
+      "location": {
+        "latitude": 35.425254599999995,
+        "longitude": -0.19004189999999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7300733318160801836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Devo",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJifA7ZAA9fg0RABihLtGwu8A",
+      "formattedAddress": "GRM6+64G, Rue Abdallah Mostapha, Sig, Algeria",
+      "location": {
+        "latitude": 35.5333325,
+        "longitude": -0.1897247
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=13887888288404019200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Pizzeria King Food",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJBe6zeGo9fg0RcsO2hI9iAv8",
+      "formattedAddress": "Street 01 November 1954, Sig 29300, Algeria",
+      "location": {
+        "latitude": 35.5305651,
+        "longitude": -0.1939696
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18375357798171460466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant CHEKFA (Hamou)",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJuTGKWgKJfg0Rr0mVEaPvQyc",
+      "nationalPhoneNumber": "0541 86 55 31",
+      "formattedAddress": "Boulvard Des Lions, Oran, Algeria",
+      "location": {
+        "latitude": 35.7123302,
+        "longitude": -0.5739377999999999
+      },
+      "rating": 3.1,
+      "googleMapsUri": "https://maps.google.com/?cid=2829368474572507567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 457,
+      "displayName": {
+        "text": "Restaurant Djabali",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJIZebDwA9fg0RQVgf7_cHUdE",
+      "formattedAddress": "GRJ6+G6V, Sig, Algeria",
+      "location": {
+        "latitude": 35.5313614,
+        "longitude": -0.1894458
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15082845388490627137&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant 4 saisons",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJCWWDYABdfg0RzJUdQR-_B00",
+      "formattedAddress": "HG3V+9GW, RN4, Oued Tlelat, Algeria",
+      "location": {
+        "latitude": 35.553602999999995,
+        "longitude": -0.4560439
+      },
+      "rating": 3.6,
+      "googleMapsUri": "https://maps.google.com/?cid=5550615206714774988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 5,
+      "displayName": {
+        "text": "Restaurant ni média oued tlilat",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ8x1GoXtdfg0RRu_RZkdUxZU",
+      "nationalPhoneNumber": "0771 84 99 30",
+      "formattedAddress": "HG3V+9RP, Oued Tlelat, Algeria",
+      "location": {
+        "latitude": 35.553342199999996,
+        "longitude": -0.45545349999999996
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10792124747707707206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant la liberté",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJY2-GJQBbfg0R3DLtv9iNG-Q",
+      "nationalPhoneNumber": "0561 20 47 04",
+      "formattedAddress": "CGMV+78W, Makedra, Algeria",
+      "location": {
+        "latitude": 35.4331971,
+        "longitude": -0.4567021
+      },
+      "rating": 1.5,
+      "googleMapsUri": "https://maps.google.com/?cid=16436887227091202780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Café restaurant el Achiri",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

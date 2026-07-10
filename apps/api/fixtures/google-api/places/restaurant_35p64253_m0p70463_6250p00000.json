@@ -1,0 +1,317 @@
+{
+  "places": [
+    {
+      "id": "ChIJRyv5UACNfg0Ro3fVxBqvZAQ",
+      "nationalPhoneNumber": "0792 04 21 62",
+      "formattedAddress": "J7VX+6J8, Oran, Algeria",
+      "location": {
+        "latitude": 35.6430304,
+        "longitude": -0.7009112
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=316570403329111971&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "LB Délice",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJFXvDPgCNfg0RcPoXsgKOHSI",
+      "formattedAddress": "bazar hadj senouci, Misserghin, Algeria",
+      "location": {
+        "latitude": 35.6307409,
+        "longitude": -0.6995606999999999
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=2458277113843153520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 8,
+      "displayName": {
+        "text": "Bazar Hadj senouci",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJMTNzGgCNfg0RIbhvphI3b48",
+      "nationalPhoneNumber": "0557 32 33 16",
+      "formattedAddress": "J8R2+C2M, Misserghin, Algeria",
+      "location": {
+        "latitude": 35.641076399999996,
+        "longitude": -0.6999464999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=10335540223079856161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://fantome.com/",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Pizzéria Fantôme & sandwich",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJIT_WJgCNfg0R0yqX6SNQ_B4",
+      "formattedAddress": "J7PX+89V, Misserghin, Algeria",
+      "location": {
+        "latitude": 35.6358673,
+        "longitude": -0.7015705
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=2232747630441999059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 5,
+      "displayName": {
+        "text": "Pizza & Grill",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJiUk5NACNfg0RMWLKOxGCBh0",
+      "nationalPhoneNumber": "0555 67 47 39",
+      "formattedAddress": "Ahmed Zabana, AADL 4000 LGTS, Rue, Misserghin, Algeria",
+      "location": {
+        "latitude": 35.6406461,
+        "longitude": -0.6981244
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=2091502087489348145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 5,
+      "displayName": {
+        "text": "دجاج مشوي ملك الاسعار",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ45SzNACNfg0R8Wad96kAvb4",
+      "nationalPhoneNumber": "0552 92 94 26",
+      "formattedAddress": "J8R2+CXR, AAdl zabana, Misserghin, Algeria",
+      "location": {
+        "latitude": 35.6411217,
+        "longitude": -0.697604
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=13744142367808382705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Pizzeria salim",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJawyHCQCNfg0RMBDsvi29KEk",
+      "formattedAddress": "J8R3+Q94, Misserghin, Algeria",
+      "location": {
+        "latitude": 35.6414387,
+        "longitude": -0.6952701
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=5271671368011485232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "west food",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJfYflIp6Jfg0Rz4s8_k3gl2o",
+      "nationalPhoneNumber": "0660 52 31 90",
+      "formattedAddress": "31000, Oran 31031, Algeria",
+      "location": {
+        "latitude": 35.640870299999996,
+        "longitude": -0.6994638999999999
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=7680854315086154703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Station eat",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJcYGquR6Nfg0RucN-9C8nr9I",
+      "nationalPhoneNumber": "0792 93 62 74",
+      "formattedAddress": "Unnamed Road, J8R2+JXX, Misserghin, Algeria",
+      "location": {
+        "latitude": 35.6416111,
+        "longitude": -0.6975241999999999
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=15181395955808125881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Pizzeria",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJi8rNDgCNfg0RVZOC2IsE3oc",
+      "nationalPhoneNumber": "0550 67 52 06",
+      "formattedAddress": "J8R2+HW8, Misserghin, Algeria",
+      "location": {
+        "latitude": 35.6414125,
+        "longitude": -0.6976719
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=9790267638629438293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 13,
+      "displayName": {
+        "text": "FAMILY FOOD",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJBcN-JwCNfg0R7ACnXWsOxtM",
+      "nationalPhoneNumber": "0555 47 38 16",
+      "formattedAddress": "J7QX+MM8, Misserghin, Algeria",
+      "location": {
+        "latitude": 35.6396301,
+        "longitude": -0.6999299
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=15259900241687019756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 5,
+      "displayName": {
+        "text": "La Choupotoise adl messerghine",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ2bLkIgCNfg0R0BhAcplIQbI",
+      "formattedAddress": "J8R2+WH8, Misserghin, Algeria",
+      "location": {
+        "latitude": 35.6422866,
+        "longitude": -0.6985395999999999
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=12844627436121364688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 14,
+      "displayName": {
+        "text": "L'Atelier du chef ali",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ29bIEZCbfg0RE7epUwQVlFc",
+      "nationalPhoneNumber": "0674 58 87 55",
+      "formattedAddress": "P6VP+3QP, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.7429363,
+        "longitude": -0.7629943
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=6310692086180591379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 96,
+      "displayName": {
+        "text": "Restaurant hadja Saiida",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJWyRTvnpjfg0Rr2etWaMVoWk",
+      "nationalPhoneNumber": "0774 14 38 46",
+      "formattedAddress": "cite aadl 4000 logement, bt 86, C004, Misserghin 31000, Algeria",
+      "location": {
+        "latitude": 35.6390013,
+        "longitude": -0.7009525
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7611388636561237935&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "ابو زيد للدواجن",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJSWg5KwCNfg0RfFnQEGvN7nY",
+      "nationalPhoneNumber": "0556 88 63 66",
+      "formattedAddress": "J8R2+MXF Aadl, Misserghin, Algeria",
+      "location": {
+        "latitude": 35.6416925,
+        "longitude": -0.697568
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8570013000659917180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "مشاوي الحاج عيسى",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJU3cyDwCNfg0RKwde1BhqFdU",
+      "nationalPhoneNumber": "0772 61 20 35",
+      "formattedAddress": "J8Q2+VQM, Misserghin, Algeria",
+      "location": {
+        "latitude": 35.640095599999995,
+        "longitude": -0.6990772000000001
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=15354295159464265515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 11,
+      "displayName": {
+        "text": "Snack Ben",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJUZGX-PaNfg0R_kEMjwXz4_s",
+      "nationalPhoneNumber": "0558 30 63 69",
+      "formattedAddress": "J7XQ+QWH, Oran, Algeria",
+      "location": {
+        "latitude": 35.6494255,
+        "longitude": -0.7101371999999999
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=18150618128433562110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 7,
+      "displayName": {
+        "text": "Pizzeria lastika",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJMdSKlqKNfg0RshSNDbKvvYw",
+      "formattedAddress": "J8Q2+5F, Misserghin, Algeria",
+      "location": {
+        "latitude": 35.6374771,
+        "longitude": -0.6977916
+      },
+      "rating": 3,
+      "googleMapsUri": "https://maps.google.com/?cid=10141455115174614194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Restaurant EL AMIR",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJC0rqQgCNfg0RJsiS9JImfOA",
+      "nationalPhoneNumber": "0656 70 22 81",
+      "formattedAddress": "bloc 131, 4000 Îlot 18, Misserghin, Algeria",
+      "location": {
+        "latitude": 35.641383499999996,
+        "longitude": -0.6939145
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=16175846374218319910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Paella ADL مسرغين",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJnwWRSACJfg0Re7TZT-JnosI",
+      "nationalPhoneNumber": "040 56 33 32",
+      "formattedAddress": "Es Senia, Algeria",
+      "location": {
+        "latitude": 35.6546747,
+        "longitude": -0.6276144
+      },
+      "rating": 3.5,
+      "googleMapsUri": "https://maps.google.com/?cid=14024886411285083259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://menudigital.me/menutl/",
+      "userRatingCount": 11,
+      "displayName": {
+        "text": "Tlemçani Twins Restaurant Oran",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

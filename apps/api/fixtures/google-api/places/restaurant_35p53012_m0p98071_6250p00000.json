@@ -1,0 +1,317 @@
+{
+  "places": [
+    {
+      "id": "ChIJa_KNIwDHfg0RLvDJEpR_xVA",
+      "nationalPhoneNumber": "0778 71 84 94",
+      "formattedAddress": "GXFM+H89 cité 24 longe, El Amria, Algeria",
+      "location": {
+        "latitude": 35.5239104,
+        "longitude": -1.0166296
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=5820198367393345582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/mayabelouahrani",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Amélia_Delicias",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJoaWcI9_Hfg0Ri3NbgCAv9eg",
+      "nationalPhoneNumber": "0792 17 71 28",
+      "formattedAddress": "El Amria, Algeria",
+      "location": {
+        "latitude": 35.526303299999995,
+        "longitude": -1.0077882999999999
+      },
+      "rating": 4.2,
+      "googleMapsUri": "https://maps.google.com/?cid=16786375002732327819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 13,
+      "displayName": {
+        "text": "Restaurant Sardine ( Chez Chergui )",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJm83_WGzRfg0RifPllt40Snk",
+      "nationalPhoneNumber": "0552 29 74 27",
+      "formattedAddress": "9WM4+GJ4, El Malah, Algeria",
+      "location": {
+        "latitude": 35.383759999999995,
+        "longitude": -1.0934227
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=8739856157484905353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 67,
+      "displayName": {
+        "text": "Pêcherie La Guitare",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJUe_OVgDRfg0RS7ySARkutT0",
+      "formattedAddress": "9WP4+3P3, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3851855,
+        "longitude": -1.0932198
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=4446510892033686603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "RESTAURANT LE PYRAMIDE",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ79kxPgDPfg0RcJ0tk6-Vy6M",
+      "nationalPhoneNumber": "0555 28 83 35",
+      "formattedAddress": "9WQ5+Q56, El Malah, Algeria",
+      "location": {
+        "latitude": 35.389315499999995,
+        "longitude": -1.0920718999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=11802691829775572336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "RESTAURANT TLEMÇANI",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJw2qKRwDHfg0RVvxJLKeHDp0",
+      "nationalPhoneNumber": "0558 43 86 85",
+      "formattedAddress": "GXGM+5HP, El Amria, Algeria",
+      "location": {
+        "latitude": 35.5254587,
+        "longitude": -1.0162299
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=11317132065700969558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/profile.php?id=61577301286235&mibextid=ZbWKwL",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "بنة الكبدة",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJJW7ceADHfg0RAHjzw5PbNno",
+      "nationalPhoneNumber": "0795 92 59 29",
+      "formattedAddress": "GXFM+VPR, city les freres maaroufe, El Amria, Algeria",
+      "location": {
+        "latitude": 35.5247416,
+        "longitude": -1.015738
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=8806467549063772160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/share/1J1CZ2Gv81",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Pizzeria Prince 🤴👑",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ29bIEZCbfg0RE7epUwQVlFc",
+      "nationalPhoneNumber": "0674 58 87 55",
+      "formattedAddress": "P6VP+3QP, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.7429363,
+        "longitude": -0.7629943
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=6310692086180591379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 96,
+      "displayName": {
+        "text": "Restaurant hadja Saiida",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJBQgdPADTfg0RWazSrBVUClU",
+      "nationalPhoneNumber": "0770 89 05 25",
+      "formattedAddress": "Aïn Témouchent, Algeria",
+      "location": {
+        "latitude": 35.3076284,
+        "longitude": -1.1526857
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6127802695061515353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 5,
+      "displayName": {
+        "text": "RESTAURANT GRILL HOUSE",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJp20SNQDHfg0RrKmX8LLZds8",
+      "nationalPhoneNumber": "0540 77 66 60",
+      "formattedAddress": "À côté de Pharmacie Sellah, Localisation :, El Amria 46006, Algeria",
+      "location": {
+        "latitude": 35.5230417,
+        "longitude": -1.0198255999999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14949375375666817452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Chicken king",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJAWTa6sPHfg0RWfrJoq0qV2I",
+      "formattedAddress": "GXFM+PCV, El Amria, Algeria",
+      "location": {
+        "latitude": 35.5245649,
+        "longitude": -1.0166595
+      },
+      "rating": 3,
+      "googleMapsUri": "https://maps.google.com/?cid=7086179463939619417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 5,
+      "displayName": {
+        "text": "Meet and eat",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJzxNSQQDPfg0RjtyrH0g1Sh8",
+      "nationalPhoneNumber": "040 07 30 01",
+      "formattedAddress": "9WW5+7CJ, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3956085,
+        "longitude": -1.0914666
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=2254673147337628814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 17,
+      "displayName": {
+        "text": "Restaurant Pécherie la bouillabaisse 2",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJY0e35SDHfg0R8IXdjag9nEQ",
+      "nationalPhoneNumber": "0540 20 32 40",
+      "formattedAddress": "GXFM+JPP, N96A, El Amria, Algeria",
+      "location": {
+        "latitude": 35.524093199999996,
+        "longitude": -1.0156771
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=4943894285089867248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Pizzeria AMIGOS",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ-15XMX3Ffg0R9ilJUGZowPA",
+      "formattedAddress": "Hassi el Ghella 46125, Algeria",
+      "location": {
+        "latitude": 35.4565048,
+        "longitude": -1.0518675
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17347980553274075638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant Faysal",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJWcZ9N8vHfg0R9_61gnSwrus",
+      "nationalPhoneNumber": "0770 29 71 40",
+      "formattedAddress": "GXGM+6JH, El Amria, Algeria",
+      "location": {
+        "latitude": 35.5255716,
+        "longitude": -1.0159018
+      },
+      "rating": 4.8,
+      "googleMapsUri": "https://maps.google.com/?cid=16982705259316379383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 9,
+      "displayName": {
+        "text": "Pizzeria O'pizz Dwich",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJaSQDDwrHfg0Rw9zmHG47hH4",
+      "nationalPhoneNumber": "0778 80 99 12",
+      "formattedAddress": "RueElemirAEK, El Amria, Algeria",
+      "location": {
+        "latitude": 35.5246932,
+        "longitude": -1.0136152
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=9116476889822059715&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Pizzeria Domino",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJJ_PNNyrQfg0RzApjVbxPxhs",
+      "nationalPhoneNumber": "0671 34 03 14",
+      "formattedAddress": "Bd Mohamed Khemisti, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3833795,
+        "longitude": -1.0934171
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=2001374754717764300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 86,
+      "displayName": {
+        "text": "El mansourah restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ7cwlurrHfg0RtOUy3oH--LM",
+      "nationalPhoneNumber": "0550 32 67 23",
+      "formattedAddress": "GXFM+HQ8, El Amria, Algeria",
+      "location": {
+        "latitude": 35.5239032,
+        "longitude": -1.015536
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=12968394960745457076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 6,
+      "displayName": {
+        "text": "Restou baraka",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ6STQwDbRfg0Rw_vmcf29J_g",
+      "nationalPhoneNumber": "0662 77 29 12",
+      "formattedAddress": "46007, El Malah 46007, Algeria",
+      "location": {
+        "latitude": 35.384682999999995,
+        "longitude": -1.0932250000000001
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=17881469741733182403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 229,
+      "displayName": {
+        "text": "Pêcherie yemma Gouraya",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJX9E1QADHfg0RjCRGq6DvFvk",
+      "formattedAddress": "10 rue khantar saïd, El Amria 46106, Algeria",
+      "location": {
+        "latitude": 35.5256158,
+        "longitude": -1.0157384999999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17948796838278997132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant et pizzeria",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}

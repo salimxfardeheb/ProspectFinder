@@ -1,0 +1,15 @@
+{
+  "latitude": 35.6987388,
+  "longitude": -0.6349319,
+  "viewport": {
+    "northeast": {
+      "lat": 35.7714138,
+      "lng": -0.5522638
+    },
+    "southwest": {
+      "lat": 35.650819,
+      "lng": -0.72412
+    }
+  },
+  "formattedAddress": "Oran, Algeria"
+}

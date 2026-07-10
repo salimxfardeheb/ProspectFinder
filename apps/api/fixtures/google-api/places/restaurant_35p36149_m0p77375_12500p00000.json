@@ -1,0 +1,319 @@
+{
+  "places": [
+    {
+      "id": "ChIJTRUBMAD_fg0RGhaQm7wy7aE",
+      "nationalPhoneNumber": "0795 99 61 55",
+      "formattedAddress": "2 Boulevard de la Macta, Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.219284699999996,
+        "longitude": -0.6338334999999999
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=11668037995231974938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.qrorderdz.com/etablisement/user_table?uid=114&name=Le+Neuf",
+      "userRatingCount": 20,
+      "displayName": {
+        "text": "Restaurant Le neuf",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJUe_OVgDRfg0RS7ySARkutT0",
+      "formattedAddress": "9WP4+3P3, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3851855,
+        "longitude": -1.0932198
+      },
+      "rating": 4.3,
+      "googleMapsUri": "https://maps.google.com/?cid=4446510892033686603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "RESTAURANT LE PYRAMIDE",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ79kxPgDPfg0RcJ0tk6-Vy6M",
+      "nationalPhoneNumber": "0555 28 83 35",
+      "formattedAddress": "9WQ5+Q56, El Malah, Algeria",
+      "location": {
+        "latitude": 35.389315499999995,
+        "longitude": -1.0920718999999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=11802691829775572336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "RESTAURANT TLEMÇANI",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ29bIEZCbfg0RE7epUwQVlFc",
+      "nationalPhoneNumber": "0674 58 87 55",
+      "formattedAddress": "P6VP+3QP, Ain El Turk, Algeria",
+      "location": {
+        "latitude": 35.7429363,
+        "longitude": -0.7629943
+      },
+      "rating": 4.9,
+      "googleMapsUri": "https://maps.google.com/?cid=6310692086180591379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 96,
+      "displayName": {
+        "text": "Restaurant hadja Saiida",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJJ_PNNyrQfg0RzApjVbxPxhs",
+      "nationalPhoneNumber": "0671 34 03 14",
+      "formattedAddress": "Bd Mohamed Khemisti, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3833795,
+        "longitude": -1.0934171
+      },
+      "rating": 3.8,
+      "googleMapsUri": "https://maps.google.com/?cid=2001374754717764300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 86,
+      "displayName": {
+        "text": "El mansourah restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJzxNSQQDPfg0RjtyrH0g1Sh8",
+      "nationalPhoneNumber": "040 07 30 01",
+      "formattedAddress": "9WW5+7CJ, El Malah, Algeria",
+      "location": {
+        "latitude": 35.3956085,
+        "longitude": -1.0914666
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=2254673147337628814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 17,
+      "displayName": {
+        "text": "Restaurant Pécherie la bouillabaisse 2",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ6STQwDbRfg0Rw_vmcf29J_g",
+      "nationalPhoneNumber": "0662 77 29 12",
+      "formattedAddress": "46007, El Malah 46007, Algeria",
+      "location": {
+        "latitude": 35.384682999999995,
+        "longitude": -1.0932250000000001
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=17881469741733182403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 229,
+      "displayName": {
+        "text": "Pêcherie yemma Gouraya",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJZWUNq1aJfg0R5oSUYPoUvik",
+      "nationalPhoneNumber": "07 68 94 32 45",
+      "formattedAddress": "33800 Bordeaux, 7 Rue des Bouviers, Bordeaux 33800, Algeria",
+      "location": {
+        "latitude": 35.2972193,
+        "longitude": -0.700197
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=3007864666724795622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 52,
+      "displayName": {
+        "text": "Lena's Epi-curieux",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJS4yT780Bfw0RZCsk4qGqUKs",
+      "nationalPhoneNumber": "0658 74 07 04",
+      "formattedAddress": "Place el Wiaam, Sidi Bel Abbès 22000, Algeria",
+      "location": {
+        "latitude": 35.2083101,
+        "longitude": -0.6265451
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=12344554190883007332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/sefarsba/",
+      "userRatingCount": 41,
+      "displayName": {
+        "text": "Sefar سيفار",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJs67Kw5QBfw0RvMwhxmYFLns",
+      "nationalPhoneNumber": "0540 68 62 18",
+      "formattedAddress": "bloc N4, makam chahid, Sidi Bel Abbès 22000, Algeria",
+      "location": {
+        "latitude": 35.1792551,
+        "longitude": -0.6340146
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=8876037854562733244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 4,
+      "displayName": {
+        "text": "Roadhouse restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ0Zc8FTkAfw0RnRsJoaPDW3g",
+      "nationalPhoneNumber": "0550 53 76 43",
+      "formattedAddress": "59WF+4C3, Rue Lieutenant Abdelkrim, Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.1952668,
+        "longitude": -0.6264375
+      },
+      "rating": 3.9,
+      "googleMapsUri": "https://maps.google.com/?cid=8672740614980836253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 103,
+      "displayName": {
+        "text": "Restaurant Mont Plaisir Chez Negro",
+        "languageCode": "en"
+      }
+    },
+    {
+      "id": "ChIJ0ZRdracBfw0RbZmBXfMtUR8",
+      "nationalPhoneNumber": "0560 34 95 88",
+      "formattedAddress": "نهج المرشح سعدان،, Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.1862339,
+        "longitude": -0.6322031
+      },
+      "rating": 3.7,
+      "googleMapsUri": "https://maps.google.com/?cid=2256635411558406509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://beacons.ai/laparrillada",
+      "userRatingCount": 95,
+      "displayName": {
+        "text": "La Parrillada Restaurant",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJTRPWkUkAfw0RbBJ7d_0NHMI",
+      "nationalPhoneNumber": "0549 52 69 00",
+      "formattedAddress": "59Q8+P9H, Ave Mohamed Khamista, Sidi Bel Abbès 22000, Algeria",
+      "location": {
+        "latitude": 35.1893041,
+        "longitude": -0.6340186999999999
+      },
+      "rating": 3.6,
+      "googleMapsUri": "https://maps.google.com/?cid=13987069924988359276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 31,
+      "displayName": {
+        "text": "Restaurant le grand Prado",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ12ftA6r_fg0R-djdNZCN1L0",
+      "nationalPhoneNumber": "0556 86 09 49",
+      "formattedAddress": "69FH+3RP, Unnamed Road, Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.222711,
+        "longitude": -0.6204351
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=13678713618749577465&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 42,
+      "displayName": {
+        "text": "Pêcherie le capitaine",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ0Sy5MQDpfg0R76pb0aVWsfY",
+      "formattedAddress": "C439+MRW, Aïn El Arbaa, Algeria",
+      "location": {
+        "latitude": 35.4042448,
+        "longitude": -0.8804257
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17776084474390096623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant amine lakhdarii✨",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ-15XMX3Ffg0R9ilJUGZowPA",
+      "formattedAddress": "Hassi el Ghella 46125, Algeria",
+      "location": {
+        "latitude": 35.4565048,
+        "longitude": -1.0518675
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17347980553274075638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "displayName": {
+        "text": "Restaurant Faysal",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJwyucPFP_fg0RmLD3bJ6JPd8",
+      "nationalPhoneNumber": "0657 65 34 90",
+      "formattedAddress": "50 logts bâtiment Bater, Rocade N, Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.2222574,
+        "longitude": -0.6152885
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=16086164757563289752&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/Lala.Mimouna.Restau/",
+      "userRatingCount": 37,
+      "displayName": {
+        "text": "Restaurant Lala Mimouna",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ25FZPUUBfw0R9g7gyKNT4aI",
+      "nationalPhoneNumber": "0770 38 07 76",
+      "formattedAddress": "59P8+WQP, Bd Mohamed Khemisti, Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.1873448,
+        "longitude": -0.6330605000000001
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=11736754066819124982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 33,
+      "displayName": {
+        "text": "Restaurant le bonheur",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJsSjU6dT_fg0RyZzhKclIKuw",
+      "formattedAddress": "6986+PP8, Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.2167988,
+        "longitude": -0.638174
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=17017494170801118409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 8,
+      "displayName": {
+        "text": "Restaurant Djilali",
+        "languageCode": "fr"
+      }
+    },
+    {
+      "id": "ChIJ2byMc6ABfw0RGwPYUTWqtrI",
+      "formattedAddress": "Bd Ahmed Zabana, Sidi Bel Abbès, Algeria",
+      "location": {
+        "latitude": 35.1878142,
+        "longitude": -0.6231725
+      },
+      "rating": 4.1,
+      "googleMapsUri": "https://maps.google.com/?cid=12877667330495611675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "userRatingCount": 10,
+      "displayName": {
+        "text": "Restaurant hammadi",
+        "languageCode": "fr"
+      }
+    }
+  ]
+}
